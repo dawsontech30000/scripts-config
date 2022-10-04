@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -15.5d,
+	tasks: [{
+		uid: "719d4730",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:sword_blade"
+			}
+		}]
+	}]
+}

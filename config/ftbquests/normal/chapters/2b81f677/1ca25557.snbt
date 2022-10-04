@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -19.5d,
+	tasks: [{
+		uid: "7353625f",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:shard"
+			}
+		}]
+	}]
+}

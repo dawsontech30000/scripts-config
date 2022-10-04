@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -17.5d,
+	tasks: [{
+		uid: "bc4ea534",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:helmet_core"
+			}
+		}]
+	}]
+}

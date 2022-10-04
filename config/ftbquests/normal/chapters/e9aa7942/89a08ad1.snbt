@@ -1,0 +1,15 @@
+{
+	x: -8.5d,
+	y: 14.0d,
+	dependencies: [
+		"0c64de7d",
+		"b1d3cc95"
+	],
+	tasks: [{
+		uid: "7f73767e",
+		type: "item",
+		items: [{
+			item: "simplegenerators:fluid_combustion_upgradable"
+		}]
+	}]
+}

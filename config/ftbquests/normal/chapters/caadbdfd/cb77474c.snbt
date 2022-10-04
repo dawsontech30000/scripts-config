@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: -7.5d,
+	shape: "square",
+	dependencies: [
+		"75d267b2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "65abc948",
+		type: "item",
+		items: [{
+			item: "minecraft:leaves2"
+		}],
+		count: 64L
+	}]
+}

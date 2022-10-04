@@ -1,0 +1,127 @@
+{
+	title: "crafting more trees",
+	x: 2.0d,
+	y: -7.5d,
+	dependencies: [
+		"c831ddc2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f5285cda",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	},
+	{
+		uid: "600a76fc",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6ac2acbd",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "284011cf",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "293f23c5",
+		type: "item",
+		items: [{
+			item: "minecraft:wooden_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "df449eb0",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6f6cd4e9",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 21"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "8b421cc0",
+		type: "item",
+		item: "minecraft:log"
+	},
+	{
+		uid: "6ed4907c",
+		type: "item",
+		item: "minecraft:log 1 1"
+	},
+	{
+		uid: "cba18442",
+		type: "item",
+		item: "minecraft:log 1 2"
+	},
+	{
+		uid: "2b6e0603",
+		type: "item",
+		item: "minecraft:log 1 3"
+	},
+	{
+		uid: "774840e9",
+		type: "ftbmoney:money",
+		ftb_money: 50000L
+	},
+	{
+		uid: "703a6419",
+		type: "item",
+		item: "minecraft:sapling"
+	},
+	{
+		uid: "68ca8783",
+		type: "item",
+		item: "minecraft:sapling 1 1"
+	},
+	{
+		uid: "0690da92",
+		type: "item",
+		item: "minecraft:sapling 1 2"
+	},
+	{
+		uid: "5c6a94ab",
+		type: "item",
+		item: "minecraft:sapling 1 3"
+	},
+	{
+		uid: "c6e9df78",
+		type: "item",
+		item: "minecraft:sapling 1 4"
+	},
+	{
+		uid: "d2a503c6",
+		type: "item",
+		team_reward: true,
+		auto: "enabled",
+		item: "minecraft:sapling 1 5",
+		count: 4
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 12.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "e8e4ff55",
+		type: "item",
+		items: [{
+			item: "minecraft:dragon_breath"
+		}],
+		count: 64L
+	}]
+}

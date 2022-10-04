@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "c723c233",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}]
+	}]
+}

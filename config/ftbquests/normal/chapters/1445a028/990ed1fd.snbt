@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "2b7448db",
+		type: "item",
+		items: [{
+			id: "rebornstorage:storagecell",
+			tag: {
+				idMost: -77406045185228419L,
+				idLeast: -9221401987334233784L
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -4.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "db842479",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold 1 4"
+		}],
+		ignore_nbt: 1b
+	}]
+}

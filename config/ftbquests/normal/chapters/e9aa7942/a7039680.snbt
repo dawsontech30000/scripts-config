@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "f843b094",
+		type: "item",
+		items: [{
+			item: "simplegenerators:ender_simple"
+		}]
+	}]
+}

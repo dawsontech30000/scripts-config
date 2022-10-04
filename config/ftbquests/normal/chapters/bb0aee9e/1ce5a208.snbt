@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "b226ae3c",
+		type: "item",
+		items: [{
+			item: "skyresources:casing 1 13"
+		}]
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	x: 20.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "652fb3fd",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "50e99f89",
+		type: "item",
+		items: [{
+			item: "minecraft:rotten_flesh"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3f3e3809",
+		type: "item",
+		items: [{
+			item: "minecraft:bone_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "5569e967",
+		type: "item",
+		items: [{
+			item: "minecraft:bone"
+		}],
+		count: 64L
+	}]
+}

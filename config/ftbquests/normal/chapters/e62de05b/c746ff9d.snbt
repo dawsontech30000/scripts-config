@@ -1,0 +1,13 @@
+{
+	title: "wood power",
+	x: -1.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "82f108e1",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}],
+		count: 64L
+	}]
+}

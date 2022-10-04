@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -18.5d,
+	tasks: [{
+		uid: "734845bf",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "plustic:pipe_piece"
+			}
+		}]
+	}]
+}

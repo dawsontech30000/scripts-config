@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: -11.0d,
+	dependencies: [
+		"6ccd726e"
+	],
+	tasks: [{
+		uid: "4ce9d15e",
+		type: "item",
+		items: [{
+			item: "tinker_io:upg 1 1"
+		}]
+	}]
+}

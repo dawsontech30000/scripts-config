@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	dependencies: [
+		"e9bf6f6b",
+		"e7b20b97",
+		"b98a6b0c",
+		"24e31724",
+		"0cd4c4fc",
+		"2fcd7a64",
+		"524f8565",
+		"86baae36",
+		"deee8e13",
+		"09c07a1d",
+		"7e1f0391",
+		"87d145bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1fcc5842",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_infinity"
+		}]
+	}]
+}

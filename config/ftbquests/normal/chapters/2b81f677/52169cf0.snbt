@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -17.5d,
+	tasks: [{
+		uid: "7c42657f",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tcomplement:sledge_head"
+			}
+		}]
+	}]
+}

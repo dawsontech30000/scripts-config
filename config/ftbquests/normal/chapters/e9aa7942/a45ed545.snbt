@@ -1,0 +1,11 @@
+{
+	x: 8.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "d96f4444",
+		type: "item",
+		items: [{
+			item: "simplegenerators:geothermal_simple"
+		}]
+	}]
+}

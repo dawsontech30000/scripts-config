@@ -1,0 +1,18 @@
+{
+	x: 18.0d,
+	y: 7.5d,
+	dependencies: [
+		"ef63423e"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "832f488f",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_slime"
+			}
+		}]
+	}]
+}

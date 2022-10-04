@@ -1,0 +1,112 @@
+{
+	title: "wood to water",
+	x: 5.5d,
+	y: -3.5d,
+	dependencies: [
+		"c45a7cc7"
+	],
+	tasks: [{
+		uid: "c050f23a",
+		type: "item",
+		items: [{
+			item: "minecraft:log 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "72714a2b",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}],
+		count: 64L
+	},
+	{
+		uid: "8d3e419b",
+		type: "item",
+		items: [{
+			item: "minecraft:log 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "a299a43c",
+		type: "item",
+		items: [{
+			item: "minecraft:log 1 3"
+		}],
+		count: 64L
+	},
+	{
+		uid: "32d37422",
+		type: "item",
+		items: [{
+			item: "minecraft:log 1 2"
+		}],
+		count: 64L
+	},
+	{
+		uid: "8951e6b6",
+		type: "item",
+		items: [{
+			item: "minecraft:log2 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "8e10a9f5",
+		type: "item",
+		items: [{
+			item: "minecraft:log2"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "be26ad21",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "EX_compressum"
+	},
+	{
+		uid: "6e3c95d4",
+		type: "item",
+		item: "excompressum:wooden_crucible",
+		count: 64
+	},
+	{
+		uid: "c8f6c149",
+		type: "item",
+		item: "excompressum:wooden_crucible 1 1",
+		count: 64
+	},
+	{
+		uid: "762abb05",
+		type: "item",
+		item: "excompressum:wooden_crucible 1 2",
+		count: 64
+	},
+	{
+		uid: "2084a499",
+		type: "item",
+		item: "excompressum:wooden_crucible 1 3",
+		count: 64
+	},
+	{
+		uid: "4ef36c46",
+		type: "item",
+		item: "excompressum:wooden_crucible 1 4",
+		count: 64
+	},
+	{
+		uid: "ad1671ad",
+		type: "item",
+		item: "excompressum:wooden_crucible 1 5",
+		count: 64
+	},
+	{
+		uid: "a7cce586",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "woodenshears"
+	}]
+}

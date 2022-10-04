@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "62021a1c",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_8"
+		}]
+	}]
+}

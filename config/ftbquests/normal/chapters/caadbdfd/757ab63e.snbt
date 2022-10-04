@@ -1,0 +1,49 @@
+{
+	x: -2.5d,
+	y: -7.0d,
+	hide: true,
+	tasks: [{
+		uid: "0159dba5",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "2ff86e0d",
+		type: "item",
+		item: "minecraft:wooden_pickaxe"
+	},
+	{
+		uid: "b9257e59",
+		type: "item",
+		item: "minecraft:wooden_axe"
+	},
+	{
+		uid: "71ce37a4",
+		type: "item",
+		item: "minecraft:wooden_hoe"
+	},
+	{
+		uid: "68fac9ef",
+		type: "item",
+		item: "minecraft:wooden_sword"
+	},
+	{
+		uid: "7a0ae9de",
+		type: "item",
+		item: "minecraft:wooden_shovel"
+	},
+	{
+		uid: "bf27d121",
+		type: "item",
+		item: "minecraft:sapling"
+	},
+	{
+		uid: "bf8ed8f9",
+		type: "item",
+		item: "minecraft:stone_axe"
+	},
+	{
+		uid: "00f22971",
+		type: "item",
+		item: "minecraft:stone_axe"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: -7.5d,
+	dependencies: [
+		"75d267b2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f8dbec0d",
+		type: "item",
+		items: [{
+			item: "minecraft:leaves 1 3"
+		}],
+		count: 64L
+	}]
+}

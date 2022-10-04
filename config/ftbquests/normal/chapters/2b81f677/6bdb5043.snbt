@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -17.5d,
+	tasks: [{
+		uid: "7b0b8524",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:kama_head"
+			}
+		}]
+	}]
+}

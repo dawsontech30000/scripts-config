@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "3d550e52",
+		type: "item",
+		items: [{
+			item: "rslargepatterns:large_pattern_encoder"
+		}]
+	}]
+}

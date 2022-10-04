@@ -1,0 +1,20 @@
+{
+	x: 13.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "4f4b67a6",
+		type: "item",
+		items: [{
+			item: "minecraft:tnt"
+		}],
+		count: 64L
+	},
+	{
+		uid: "a00cf293",
+		type: "item",
+		items: [{
+			item: "minecraft:gunpowder"
+		}],
+		count: 64L
+	}]
+}

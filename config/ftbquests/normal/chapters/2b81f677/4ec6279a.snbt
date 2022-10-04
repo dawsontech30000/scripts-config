@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -19.5d,
+	tasks: [{
+		uid: "f29c6617",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:polishing_kit"
+			}
+		}]
+	}]
+}

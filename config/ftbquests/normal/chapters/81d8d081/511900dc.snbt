@@ -1,0 +1,16 @@
+{
+	x: -9.0d,
+	y: -5.0d,
+	dependencies: [
+		"4839cd40"
+	],
+	tasks: [{
+		uid: "fb573974",
+		type: "item",
+		items: [{
+			item: "notenoughwands:teleportation_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

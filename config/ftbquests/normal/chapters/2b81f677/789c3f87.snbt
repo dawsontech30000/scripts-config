@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "0bf465dc",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:boots_core"
+			}
+		}]
+	}]
+}

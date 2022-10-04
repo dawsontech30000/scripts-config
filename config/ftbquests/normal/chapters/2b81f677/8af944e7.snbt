@@ -1,0 +1,11 @@
+{
+	x: 14.0d,
+	y: -17.0d,
+	tasks: [{
+		uid: "975c29c1",
+		type: "item",
+		items: [{
+			item: "tinker_io:upg 1 6"
+		}]
+	}]
+}

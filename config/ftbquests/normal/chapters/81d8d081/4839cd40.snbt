@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: -6.5d,
+	tasks: [{
+		uid: "aa3c97d9",
+		type: "item",
+		items: [{
+			item: "notenoughwands:wandcore"
+		}]
+	}]
+}

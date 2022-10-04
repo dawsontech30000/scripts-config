@@ -1,0 +1,12 @@
+{
+	x: 5.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "91cab649",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 8"
+		}],
+		count: 64L
+	}]
+}

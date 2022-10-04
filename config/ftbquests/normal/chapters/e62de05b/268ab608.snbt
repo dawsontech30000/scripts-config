@@ -1,0 +1,12 @@
+{
+	x: 8.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "ad9ff8d4",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}],
+		count: 16L
+	}]
+}

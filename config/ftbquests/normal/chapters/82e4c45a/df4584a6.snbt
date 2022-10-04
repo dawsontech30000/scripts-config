@@ -1,0 +1,16 @@
+{
+	x: -8.0d,
+	y: -11.5d,
+	tasks: [{
+		uid: "df60b446",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "electrode"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

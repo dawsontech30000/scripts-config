@@ -1,0 +1,34 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	dependencies: [
+		"cd702348",
+		"b52ebf3d"
+	],
+	tasks: [{
+		uid: "1554b5d5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
+			id: "inventorygenerators:inv_potion_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -8.5d,
+	y: 13.0d,
+	dependencies: [
+		"0c64de7d",
+		"a45ed545"
+	],
+	tasks: [{
+		uid: "79ca54b5",
+		type: "item",
+		items: [{
+			item: "simplegenerators:geothermal_upgradable"
+		}]
+	}]
+}

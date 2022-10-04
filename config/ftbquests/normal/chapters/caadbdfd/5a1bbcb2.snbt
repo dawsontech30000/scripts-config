@@ -1,0 +1,56 @@
+{
+	title: "to skyR",
+	x: 18.0d,
+	y: -5.0d,
+	dependencies: [
+		"f8d30f83",
+		"cb77474c",
+		"a9b22f91",
+		"f55daed9",
+		"0b3b2926",
+		"820ae06c"
+	],
+	tasks: [{
+		uid: "c4332457",
+		type: "ftbmoney:money",
+		value: 15000L
+	},
+	{
+		uid: "2e80b459",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "73929068",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "7e014702",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "a3409918",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_dust"
+		}],
+		count: 1000L
+	}],
+	rewards: [{
+		uid: "dc0f1c30",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "SkyResources2"
+	}]
+}

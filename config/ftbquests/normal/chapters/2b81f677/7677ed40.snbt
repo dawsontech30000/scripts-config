@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -20.5d,
+	tasks: [{
+		uid: "eba63b15",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:armor_plate"
+			}
+		}]
+	}]
+}

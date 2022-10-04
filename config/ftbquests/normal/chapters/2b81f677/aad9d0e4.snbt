@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -18.5d,
+	tasks: [{
+		uid: "c032536e",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:bow_limb"
+			}
+		}]
+	}]
+}

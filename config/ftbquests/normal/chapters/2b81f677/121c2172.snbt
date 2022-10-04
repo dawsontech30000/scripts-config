@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "8cf7546b",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:arrow_shaft"
+			}
+		}]
+	}]
+}

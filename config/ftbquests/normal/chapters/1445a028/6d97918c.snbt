@@ -1,0 +1,12 @@
+{
+	x: -8.0d,
+	y: -6.5d,
+	tasks: [{
+		uid: "2677ed4b",
+		type: "item",
+		items: [{
+			item: "rebornstorage:storagepart 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

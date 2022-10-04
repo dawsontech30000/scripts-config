@@ -1,0 +1,15 @@
+{
+	x: 20.0d,
+	y: -5.0d,
+	dependencies: [
+		"5a1bbcb2"
+	],
+	hide: true,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "0b3ee201",
+		type: "fluid",
+		fluid: "water",
+		amount: 100000
+	}]
+}

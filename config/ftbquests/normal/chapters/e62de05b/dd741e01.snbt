@@ -1,0 +1,44 @@
+{
+	x: 16.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "4c501e72",
+		type: "item",
+		items: [{
+			item: "minecraft:ice"
+		}],
+		count: 64L
+	},
+	{
+		uid: "ec5312c3",
+		type: "item",
+		items: [{
+			item: "minecraft:packed_ice"
+		}],
+		count: 64L
+	},
+	{
+		uid: "1e876cee",
+		type: "item",
+		items: [{
+			item: "minecraft:snowball"
+		}],
+		count: 16L
+	},
+	{
+		uid: "ddee4af2",
+		type: "item",
+		items: [{
+			item: "minecraft:snow"
+		}],
+		count: 64L
+	},
+	{
+		uid: "8f4dfcd9",
+		type: "item",
+		items: [{
+			item: "minecraft:snow_layer"
+		}],
+		count: 64L
+	}]
+}

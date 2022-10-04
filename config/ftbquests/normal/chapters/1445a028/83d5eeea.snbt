@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "d8792b79",
+		type: "item",
+		items: [{
+			item: "refinedstorage:destructor"
+		}]
+	}]
+}

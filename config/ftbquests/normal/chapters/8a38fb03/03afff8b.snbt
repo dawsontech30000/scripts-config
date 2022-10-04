@@ -1,0 +1,11 @@
+{
+	x: -12.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "dac3ec36",
+		type: "item",
+		items: [{
+			item: "speedyhoppers:speedyhopper_mk3"
+		}]
+	}]
+}

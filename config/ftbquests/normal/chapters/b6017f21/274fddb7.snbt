@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "9f2cc431",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

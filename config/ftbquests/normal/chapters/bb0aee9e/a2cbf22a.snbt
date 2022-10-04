@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	dependencies: [
+		"5a1bbcb2"
+	],
+	tasks: [{
+		uid: "ebcf3175",
+		type: "item",
+		items: [{
+			item: "skyresources:fusiontable"
+		}]
+	}]
+}

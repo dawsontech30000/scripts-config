@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -19.5d,
+	tasks: [{
+		uid: "4fcedfae",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:large_sword_blade"
+			}
+		}]
+	}]
+}

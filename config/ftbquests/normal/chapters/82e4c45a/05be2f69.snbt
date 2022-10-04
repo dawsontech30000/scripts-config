@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: -6.0d,
+	dependencies: [
+		"82563b6f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4e01765a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 6"
+		}]
+	}]
+}

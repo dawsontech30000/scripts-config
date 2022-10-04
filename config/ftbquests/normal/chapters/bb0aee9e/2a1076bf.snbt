@@ -1,0 +1,9 @@
+{
+	x: 10.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "eb440360",
+		type: "checkmark",
+		title: "move to exnilo"
+	}]
+}

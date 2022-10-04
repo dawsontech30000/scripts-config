@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -18.5d,
+	tasks: [{
+		uid: "f77aa2a3",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tinkersaether:dart_tip"
+			}
+		}]
+	}]
+}

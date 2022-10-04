@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -20.5d,
+	tasks: [{
+		uid: "897d9a55",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:tool_rod"
+			}
+		}]
+	}]
+}

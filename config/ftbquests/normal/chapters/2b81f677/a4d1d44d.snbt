@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -15.5d,
+	tasks: [{
+		uid: "64eedaab",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:hammer_head"
+			}
+		}]
+	}]
+}

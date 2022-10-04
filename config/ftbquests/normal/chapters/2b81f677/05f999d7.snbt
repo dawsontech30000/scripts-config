@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -19.5d,
+	tasks: [{
+		uid: "c2efdb66",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tinkersaether:tube"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: -13.0d,
+	tasks: [{
+		uid: "694d3d07",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "specialBullet"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

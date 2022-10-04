@@ -1,0 +1,17 @@
+{
+	x: 14.5d,
+	y: -8.5d,
+	dependencies: [
+		"dd741e01"
+	],
+	tasks: [{
+		uid: "22e90895",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_ice"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "4e967e0e",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:cross_guard"
+			}
+		}]
+	}]
+}

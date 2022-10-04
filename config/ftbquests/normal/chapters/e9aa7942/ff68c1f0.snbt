@@ -1,0 +1,15 @@
+{
+	x: -8.5d,
+	y: 12.0d,
+	dependencies: [
+		"df8a32bb",
+		"0c64de7d"
+	],
+	tasks: [{
+		uid: "ce228948",
+		type: "item",
+		items: [{
+			item: "simplegenerators:turbine_upgradable"
+		}]
+	}]
+}

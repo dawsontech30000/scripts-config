@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "9fc6d813",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:knife_blade"
+			}
+		}]
+	}]
+}

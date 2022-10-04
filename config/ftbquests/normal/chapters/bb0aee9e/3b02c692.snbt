@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "0fe99fe1",
+		type: "item",
+		items: [{
+			item: "skyresources:rockcrusher"
+		}]
+	}]
+}

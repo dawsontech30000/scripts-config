@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: -1.0d,
+	dependencies: [
+		"ae3e0231"
+	],
+	tasks: [{
+		uid: "8b4e67bb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 21"
+		}],
+		count: 64L
+	}]
+}

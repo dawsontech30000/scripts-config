@@ -1,0 +1,15 @@
+{
+	x: -3.0d,
+	y: 7.5d,
+	dependencies: [
+		"581c65a9"
+	],
+	tasks: [{
+		uid: "c7ac1697",
+		type: "item",
+		items: [{
+			item: "minecraft:wool"
+		}],
+		count: 64L
+	}]
+}

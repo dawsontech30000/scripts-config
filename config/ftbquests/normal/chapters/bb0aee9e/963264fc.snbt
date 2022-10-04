@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "ea40692e",
+		type: "item",
+		items: [{
+			item: "skyresources:rockcleaner"
+		}]
+	}]
+}

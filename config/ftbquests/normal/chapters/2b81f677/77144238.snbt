@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -20.5d,
+	tasks: [{
+		uid: "6a8c93b2",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:large_plate"
+			}
+		}]
+	}]
+}

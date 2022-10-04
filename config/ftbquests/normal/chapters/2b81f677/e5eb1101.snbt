@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -17.5d,
+	tasks: [{
+		uid: "ff25a178",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:sharpening_kit"
+			}
+		}]
+	}]
+}

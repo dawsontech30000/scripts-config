@@ -1,0 +1,12 @@
+{
+	x: -1.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "f88748ad",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 64L
+	}]
+}

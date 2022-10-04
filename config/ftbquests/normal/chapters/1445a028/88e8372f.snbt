@@ -1,0 +1,11 @@
+{
+	x: 7.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "58819d77",
+		type: "item",
+		items: [{
+			item: "refinedstorage:fluid_storage 1 3"
+		}]
+	}]
+}

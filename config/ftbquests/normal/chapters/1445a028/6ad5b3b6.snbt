@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "64bb1c32",
+		type: "item",
+		items: [{
+			item: "refinedstorage:constructor"
+		}]
+	}]
+}

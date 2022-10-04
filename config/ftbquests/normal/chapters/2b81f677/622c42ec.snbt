@@ -1,0 +1,19 @@
+{
+	x: 14.0d,
+	y: -15.0d,
+	dependencies: [
+		"74b3bf02",
+		"a1819f93",
+		"4418df6d",
+		"7d3b4a75",
+		"8af944e7",
+		"12aac8e4"
+	],
+	tasks: [{
+		uid: "6550cd07",
+		type: "item",
+		items: [{
+			item: "tinker_io:smart_output"
+		}]
+	}]
+}

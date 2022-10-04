@@ -1,0 +1,22 @@
+{
+	x: -13.5d,
+	y: -1.0d,
+	dependencies: [
+		"df6f7e70",
+		"5e77581c"
+	],
+	tasks: [{
+		uid: "5f7d791b",
+		type: "item",
+		items: [{
+			item: "extrautils2:rainbowgenerator"
+		}]
+	}],
+	rewards: [{
+		uid: "e72f9075",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "invgen"
+	}]
+}

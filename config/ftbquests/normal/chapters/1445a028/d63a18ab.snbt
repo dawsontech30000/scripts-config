@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "ea8a562b",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_fluid_grid"
+		}],
+		ignore_nbt: 1b
+	}]
+}

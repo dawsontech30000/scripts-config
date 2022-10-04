@@ -1,0 +1,16 @@
+{
+	x: -4.5d,
+	y: -4.0d,
+	dependencies: [
+		"a76fcb1e"
+	],
+	tasks: [{
+		uid: "4d7b4657",
+		type: "item",
+		items: [{
+			item: "notenoughwands:potion_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

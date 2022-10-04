@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "a75c09fc",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "bullet"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

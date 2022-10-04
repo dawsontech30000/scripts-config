@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ac177511",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_draconic"
+		}]
+	}]
+}

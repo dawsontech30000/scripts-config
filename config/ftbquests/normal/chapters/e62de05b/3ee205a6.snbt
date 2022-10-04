@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: -8.5d,
+	dependencies: [
+		"338899e7"
+	],
+	tasks: [{
+		uid: "4f236376",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_lava"
+			}
+		}]
+	}]
+}

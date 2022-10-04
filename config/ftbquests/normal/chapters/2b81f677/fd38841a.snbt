@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -19.5d,
+	tasks: [{
+		uid: "f6a746e6",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "plustic:battery_cell"
+			}
+		}]
+	}]
+}

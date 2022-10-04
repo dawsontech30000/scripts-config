@@ -1,0 +1,15 @@
+{
+	x: -8.5d,
+	y: 9.0d,
+	dependencies: [
+		"0c64de7d",
+		"a7039680"
+	],
+	tasks: [{
+		uid: "ebbb2e23",
+		type: "item",
+		items: [{
+			item: "simplegenerators:ender_upgradable"
+		}]
+	}]
+}

@@ -1,0 +1,104 @@
+#loader contenttweaker
+
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Item;
+import mods.contenttweaker.IItemRightClick;
+import mods.contenttweaker.Commands;
+import mods.contenttweaker.ItemFood;
+import mods.contenttweaker.IItemFoodEaten;
+import mods.contenttweaker.MutableItemStack;
+import mods.contenttweaker.Hand;
+import mods.contenttweaker.World;
+import mods.contenttweaker.IItemUpdate;
+import mods.contenttweaker.Player;
+import crafttweaker.player.IPlayer;
+import crafttweaker.util.IRandom;
+
+print("STARTING ContentTweakerItems.zs");
+
+
+var relic_ingot = VanillaFactory.createItem("relic_ingot");
+relic_ingot.register();
+var relic_dust = VanillaFactory.createItem("relic_dust");
+relic_dust.register();
+
+var mobgrindium_ingot = VanillaFactory.createItem("mobgrindium_ingot");
+mobgrindium_ingot.register();
+var open_ingot = VanillaFactory.createItem("open_ingot");
+open_ingot.register();
+
+var energized_osmium_ingot = VanillaFactory.createItem("energized_osmium_ingot");
+energized_osmium_ingot.register();
+
+var energized_certus_quartz_crystal = VanillaFactory.createItem("energized_certus_quartz_crystal");
+energized_certus_quartz_crystal.register();
+
+var dark_ingot = VanillaFactory.createItem("dark_ingot");
+dark_ingot.register();
+
+var energized_dark_ingot = VanillaFactory.createItem("energized_dark_ingot");
+energized_dark_ingot.register();
+
+
+var fluxed_electrum_ingot = VanillaFactory.createItem("fluxed_electrum_ingot");
+fluxed_electrum_ingot.register();
+
+var flux_crystal = VanillaFactory.createItem("flux_crystal");
+flux_crystal.register();
+var fluxed_electrum_plate = VanillaFactory.createItem("fluxed_electrum_plate");
+fluxed_electrum_plate.register();
+
+
+var crystalline_brown_slime_ingot = VanillaFactory.createItem("crystalline_brown_slime_ingot");
+crystalline_brown_slime_ingot.register();
+
+var hybrid_abyssalium_ingot = VanillaFactory.createItem("hybrid_abyssalium_ingot");
+hybrid_abyssalium_ingot.register();
+
+
+var cold_void_metal_ingot = VanillaFactory.createItem("cold_void_metal_ingot");
+cold_void_metal_ingot.register();
+
+
+var galactic_ingot = VanillaFactory.createItem("galactic_ingot");
+galactic_ingot.rarity = "RARE";
+galactic_ingot.register();
+
+var corrupted_draconium_ingot = VanillaFactory.createItem("corrupted_draconium_ingot");
+corrupted_draconium_ingot.register();
+
+var demonlord_ingot = VanillaFactory.createItem("demonlord_ingot");
+demonlord_ingot.register();
+
+var ingot_of_elevation = VanillaFactory.createItem("ingot_of_elevation");
+ingot_of_elevation.onItemUpdate = function(itemStack, world, owner, slot, isSelected) {
+    if(world.remote) {
+        return;
+    }
+	if(owner instanceof IPlayer) {
+		val player as IPlayer = owner;
+		if(isSelected) {
+			val randomInt = world.random.nextInt(240) as int;
+			if(randomInt == 0) {
+				Commands.call("effect @p minecraft:levitation 3 0 true", player, world, false, true);
+			}
+		}
+	}
+	return;
+};
+ingot_of_elevation.register();
+
+
+var mystical_iron_ingot = VanillaFactory.createItem("mystical_iron_ingot");
+mystical_iron_ingot.glowing = true;
+mystical_iron_ingot.register();
+
+var solar_ingot = VanillaFactory.createItem("solar_ingot");
+solar_ingot.rarity = "RARE";
+solar_ingot.register();
+
+var corrupted_light_ingot = VanillaFactory.createItem("corrupted_light_ingot");
+corrupted_light_ingot.rarity = "RARE";
+corrupted_light_ingot.register();
+
+print("ENDING ContentTweakerItems.zs");

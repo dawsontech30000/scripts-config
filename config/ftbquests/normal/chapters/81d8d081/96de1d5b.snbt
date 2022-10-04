@@ -1,0 +1,16 @@
+{
+	x: -7.0d,
+	y: -3.0d,
+	dependencies: [
+		"4839cd40"
+	],
+	tasks: [{
+		uid: "12c91d26",
+		type: "item",
+		items: [{
+			item: "notenoughwands:swapping_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

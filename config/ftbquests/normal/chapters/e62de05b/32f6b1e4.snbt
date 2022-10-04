@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "3209056e",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:water"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

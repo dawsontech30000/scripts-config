@@ -1,0 +1,16 @@
+{
+	x: -8.5d,
+	y: 10.0d,
+	dependencies: [
+		"0c64de7d",
+		"590cecba"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "5f5a50c0",
+		type: "item",
+		items: [{
+			item: "simplegenerators:nether_upgradable"
+		}]
+	}]
+}

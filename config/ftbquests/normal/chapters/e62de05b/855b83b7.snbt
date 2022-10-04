@@ -1,0 +1,24 @@
+{
+	x: 22.5d,
+	y: -10.0d,
+	tasks: [{
+		uid: "a8fcf1b2",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:enchantment_invoker"
+		}]
+	},
+	{
+		uid: "89bcfd0f",
+		type: "fluid",
+		fluid: "essence"
+	},
+	{
+		uid: "60762198",
+		type: "item",
+		items: [{
+			item: "minecraft:book"
+		}],
+		count: 64L
+	}]
+}

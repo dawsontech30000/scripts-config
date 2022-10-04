@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "b096c697",
+		type: "item",
+		items: [{
+			id: "refinedstorage:storage_disk",
+			tag: {
+				IdLeast: -6930474098846417141L,
+				IdMost: 1327885562549323659L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

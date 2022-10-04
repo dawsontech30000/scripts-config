@@ -1,0 +1,23 @@
+{
+	x: 1.0d,
+	y: -4.0d,
+	dependencies: [
+		"75d267b2",
+		"e3f6d07f",
+		"757ab63e",
+		"f2778f10"
+	],
+	tasks: [{
+		uid: "a8258a66",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "05628664",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: ""
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "28a260dc",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:chest_core"
+			}
+		}]
+	}]
+}

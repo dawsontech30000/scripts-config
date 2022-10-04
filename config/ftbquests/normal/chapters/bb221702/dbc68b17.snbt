@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "49650127",
+		type: "item",
+		items: [{
+			item: "immersivetech:wooden_crate"
+		}]
+	}]
+}

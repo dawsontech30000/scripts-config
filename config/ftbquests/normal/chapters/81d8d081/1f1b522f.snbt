@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: -6.0d,
+	dependencies: [
+		"a76fcb1e"
+	],
+	tasks: [{
+		uid: "25b65c7a",
+		type: "item",
+		items: [{
+			id: "notenoughwands:acceleration_wand",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

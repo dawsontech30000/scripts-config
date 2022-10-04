@@ -1,0 +1,12 @@
+{
+	x: 7.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "521e08fa",
+		type: "item",
+		items: [{
+			item: "immersivepetroleum:material"
+		}],
+		count: 64L
+	}]
+}

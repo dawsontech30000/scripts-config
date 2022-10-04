@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	dependencies: [
+		"1ab07b91"
+	],
+	tasks: [{
+		uid: "e588735f",
+		type: "item",
+		items: [{
+			item: "expandableinventory:golden_expander"
+		}]
+	}]
+}

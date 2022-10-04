@@ -1,0 +1,6 @@
+{
+	title: "simplegens",
+	always_invisible: false,
+	group: -1140601142,
+	default_quest_shape: "square"
+}

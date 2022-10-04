@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -17.5d,
+	tasks: [{
+		uid: "39aff865",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tcomplement:chisel_head"
+			}
+		}]
+	}]
+}

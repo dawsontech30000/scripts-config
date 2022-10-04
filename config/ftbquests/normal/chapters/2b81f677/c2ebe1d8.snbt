@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -20.5d,
+	tasks: [{
+		uid: "e654bcaf",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:excavator_head"
+			}
+		}]
+	}]
+}

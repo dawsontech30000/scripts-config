@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: -5.0d,
+	dependencies: [
+		"a76fcb1e"
+	],
+	tasks: [{
+		uid: "7ad57197",
+		type: "item",
+		items: [{
+			id: "notenoughwands:protection_wand",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

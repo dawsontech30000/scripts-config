@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -20.5d,
+	tasks: [{
+		uid: "aed8797c",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "conarm:armor_trim"
+			}
+		}]
+	}]
+}

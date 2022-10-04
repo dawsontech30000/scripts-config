@@ -1,0 +1,21 @@
+{
+	x: 20.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "8fe8b07c",
+		type: "item",
+		items: [{
+			item: "minecraft:milk_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e765c44f",
+		type: "item",
+		items: [{
+			item: "minecraft:slime_ball"
+		}],
+		count: 64L
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "f372e3d5",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_creative"
+		}]
+	}]
+}

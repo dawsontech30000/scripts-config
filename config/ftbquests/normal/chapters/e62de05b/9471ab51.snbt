@@ -1,0 +1,12 @@
+{
+	x: 7.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "a1b61e29",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 9"
+		}],
+		count: 64L
+	}]
+}

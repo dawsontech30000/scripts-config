@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -3.5d,
+	dependencies: [
+		"3c76fa38",
+		"5e77581c",
+		"df6f7e70"
+	],
+	tasks: [{
+		uid: "e2618a0c",
+		type: "checkmark",
+		title: "welcome to inv gens"
+	}]
+}

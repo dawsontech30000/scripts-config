@@ -1,0 +1,20 @@
+{
+	x: 8.5d,
+	y: 1.0d,
+	dependencies: [
+		"c831ddc2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "745c3c08",
+		type: "item",
+		items: [{
+			id: "woodenshears:wshears",
+			tag: {
+				mType: 3b
+			}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

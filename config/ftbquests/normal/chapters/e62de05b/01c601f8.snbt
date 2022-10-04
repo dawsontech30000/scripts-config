@@ -1,0 +1,12 @@
+{
+	x: 1.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "6d41ea09",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 64L
+	}]
+}

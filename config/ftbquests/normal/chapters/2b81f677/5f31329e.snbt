@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -19.5d,
+	tasks: [{
+		uid: "52e7348f",
+		type: "item",
+		items: [{
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:broad_axe_head"
+			}
+		}]
+	}]
+}

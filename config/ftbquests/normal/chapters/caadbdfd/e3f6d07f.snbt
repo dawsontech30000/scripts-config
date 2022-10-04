@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "7af8e936",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}],
+		count: 64L
+	}]
+}

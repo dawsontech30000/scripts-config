@@ -1,0 +1,35 @@
+{
+	x: -4.5d,
+	y: 1.5d,
+	dependencies: [
+		"581c65a9",
+		"b52ebf3d"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "51df478a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
+			id: "inventorygenerators:inv_survivalist_gen",
+			tag: {
+				Charging: 0b,
+				Energy: 0,
+				BurnTime: 0,
+				On: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

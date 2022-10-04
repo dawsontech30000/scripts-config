@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "5327987b",
+		type: "item",
+		items: [{
+			item: "rslargepatterns:large_pattern"
+		}]
+	}]
+}

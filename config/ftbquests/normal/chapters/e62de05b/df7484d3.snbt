@@ -1,0 +1,17 @@
+{
+	x: 10.5d,
+	y: -8.5d,
+	dependencies: [
+		"51ceb3d1"
+	],
+	tasks: [{
+		uid: "2aceeaf8",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_dragonsbreath"
+			}
+		}]
+	}]
+}

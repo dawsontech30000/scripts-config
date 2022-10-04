@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "75ae6f55",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_grid"
+		}],
+		ignore_nbt: 1b
+	}]
+}

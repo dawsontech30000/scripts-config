@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "3a8b72cc",
+		type: "item",
+		items: [{
+			item: "refined_avaritia:extreme_pattern_encoder"
+		}]
+	}]
+}

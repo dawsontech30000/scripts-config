@@ -1,0 +1,15 @@
+{
+	x: -8.5d,
+	y: 7.0d,
+	dependencies: [
+		"0f558505",
+		"0c64de7d"
+	],
+	tasks: [{
+		uid: "d8de9161",
+		type: "item",
+		items: [{
+			item: "simplegenerators:combustion_upgradable"
+		}]
+	}]
+}
