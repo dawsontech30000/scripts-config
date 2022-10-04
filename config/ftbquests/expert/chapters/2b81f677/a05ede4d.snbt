@@ -1,0 +1,11 @@
+{
+	x: -9.0d,
+	y: -15.5d,
+	tasks: [{
+		uid: "cb21ee5f",
+		type: "item",
+		items: [{
+			item: "tinkersaddons:modifier_item 1 4"
+		}]
+	}]
+}
