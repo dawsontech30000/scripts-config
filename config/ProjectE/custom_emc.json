@@ -1,0 +1,772 @@
+{
+  "entries": [
+    {
+      "item": "redstonearsenal:storage|1",
+      "emc": 0
+    },
+    {
+      "item": "redstonearsenal:material|160",
+      "emc": 0
+    },
+    {
+      "item": "redstonearsenal:material|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|133",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot|1",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|132",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 0
+    },
+    {
+      "item": "magneticraft:ingots|4",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|131",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|128",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|130",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|129",
+      "emc": 0
+    },
+    {
+      "item": "woot:stygianironingot|0",
+      "emc": 0
+    },
+    {
+      "item": "tp:redstone_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "tp:quartz_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "tp:reinforced_obsidian_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "tp:lapis_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "tp:flint_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:ingots|2",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:ingots|1",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:ingots|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalsolars:itemenderingot|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|166",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|165",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|163",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|162",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|161",
+      "emc": 0
+    },
+    {
+      "item": "techreborn:ingot|19",
+      "emc": 0
+    },
+    {
+      "item": "techreborn:ingot|20",
+      "emc": 0
+    },
+    {
+      "item": "techreborn:ingot|21",
+      "emc": 0
+    },
+    {
+      "item": "sgextraparts:ingot|20",
+      "emc": 0
+    },
+    {
+      "item": "sgextraparts:ingot|19",
+      "emc": 0
+    },
+    {
+      "item": "sgextraparts:ingot|18",
+      "emc": 0
+    },
+    {
+      "item": "projectred-core:resource_item|103",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:alloy|15",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:alloy|13",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot_oxide|3",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot_oxide|2",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot_oxide|1",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot_oxide|0",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|11",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|10",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|9",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|8",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|7",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|6",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|5",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot|3",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:ingot_former_idle|0",
+      "emc": 0
+    },
+    {
+      "item": "inventorypets:sun_pet|0",
+      "emc": 0
+    },
+    {
+      "item": "inventorypets:pingot_pet|0",
+      "emc": 0
+    },
+    {
+      "item": "inventorypets:apple_pet|0",
+      "emc": 0
+    },
+    {
+      "item": "inventorypets:iron_golem_pet|0",
+      "emc": 0
+    },
+    {
+      "item": "bigreactors:ingotcyanite|0",
+      "emc": 0
+    },
+    {
+      "item": "bigreactors:ingotblutonium|0",
+      "emc": 0
+    },
+    {
+      "item": "bigreactors:ingotludicrite|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|6",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|7",
+      "emc": 0
+    },
+    {
+      "item": "extendedcrafting:material|36",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|5",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|4",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|3",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|2",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|1",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:aquatic_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:rupee_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:realmite_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:netherite_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:hellstone_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:arlemite_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:material|1",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:material|2",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:material|3",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:material|4",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:the_ultimate_part|2",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:the_ultimate_part|5",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:the_ultimate_part|6",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:lapis_helmet|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:lapis_chestplate|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:lapis_leggings|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:lapis_boots|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:redstone_helmet|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:redstone_chestplate|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:redstone_leggings|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:redstone_boots|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:emerald_helmet|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:emerald_chestplate|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:emerald_leggings|0",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:emerald_boots|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:prismarine_crystals|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:prismarine|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sea_lantern|0",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem|0",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem|1",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem|2",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem|3",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem|4",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem|5",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem|6",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem_dust|0",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem_dust|1",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem_dust|2",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem_dust|4",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem_dust|5",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|771",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|768",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:gem_dust|8",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:part|10",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:part|12",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:part|7",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:part|0",
+      "emc": 0
+    },
+    {
+      "item": "nuclearcraft:part|1",
+      "emc": 0
+    },
+    {
+      "item": "rftools:rftools_manual|0",
+      "emc": 0
+    },
+    {
+      "item": "rftools:rftools_shape_manual|0",
+      "emc": 0
+    },
+    {
+      "item": "realfilingcabinet:modelcabinet|0",
+      "emc": 0
+    },
+    {
+      "item": "realfilingcabinet:emptyfolder|0",
+      "emc": 0
+    },
+    {
+      "item": "realfilingcabinet:emptyfolder|1",
+      "emc": 0
+    },
+    {
+      "item": "realfilingcabinet:emptyfolder|2",
+      "emc": 0
+    },
+    {
+      "item": "realfilingcabinet:emptyfolder|3",
+      "emc": 0
+    },
+    {
+      "item": "realfilingcabinet:emptyfolder|4",
+      "emc": 0
+    },
+    {
+      "item": "elevatorid:elevator_white|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:corrupted_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:divine_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:ender_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:ice_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:jungle_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:molten_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_block|0",
+      "emc": 0
+    },
+    {
+      "item": "extendedcrafting:material|7",
+      "emc": 0
+    },
+    {
+      "item": "yabba:item_barrel_connector|0",
+      "emc": 0
+    },
+    {
+      "item": "irontanks:silver_tank|0",
+      "emc": 0
+    },
+    {
+      "item": "irontanks:copper_tank|0",
+      "emc": 0
+    },
+    {
+      "item": "irontanks:void_tank|0",
+      "emc": 0
+    },
+    {
+      "item": "irontanks:copper_silver_upgrade|0",
+      "emc": 0
+    },
+    {
+      "item": "irontanks:diamond_obsidian_upgrade|0",
+      "emc": 0
+    },
+    {
+      "item": "irontanks:glass_copper_upgrade|0",
+      "emc": 0
+    },
+    {
+      "item": "irontanks:diamond_emerald_upgrade|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage|6",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|3",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|2",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage_resource|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|1",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage|5",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage|3",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage|2",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:storage|1",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_fuel|2",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_fuel|1",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_fuel|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|7",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|3",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|4",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|5",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|12",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|14",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|25",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|27",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|40",
+      "emc": 0
+    },
+    {
+      "item": "alchemistry:ingot|90",
+      "emc": 0
+    },
+    {
+      "item": "techreborn:ingot|23",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "zollerngalaxy:obsidianingot|0",
+      "emc": 0
+    },
+    {
+      "item": "excompressum:compressed_hammer_wood|0",
+      "emc": 0
+    },
+    {
+      "item": "excompressum:compressed_hammer_stone|0",
+      "emc": 0
+    },
+    {
+      "item": "excompressum:compressed_hammer_iron|0",
+      "emc": 0
+    },
+    {
+      "item": "excompressum:compressed_hammer_gold|0",
+      "emc": 0
+    },
+    {
+      "item": "excompressum:compressed_hammer_diamond|0",
+      "emc": 0
+    },
+    {
+      "item": "excompressum:double_compressed_diamond_hammer|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:satchel|1",
+      "emc": 0
+    },
+    {
+      "item": "thermalexpansion:satchel|0",
+      "emc": 0
+    },
+    {
+      "item": "exnihilocreatio:item_mesh|2",
+      "emc": 0
+    },
+    {
+      "item": "exnihilocreatio:block_sieve|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:eden_chunk|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:wildwood_chunk|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:apalachia_chunk|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:skythern_chunk|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:mortum_chunk|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:skythern_gem|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:apalachia_gem|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:wildwood_gem|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:eden_gem|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:eden_fragments|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:wildwood_fragments|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:apalachia_fragments|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:skythern_fragments|0",
+      "emc": 0
+    },
+    {
+      "item": "divinerpg:mortum_fragments|0",
+      "emc": 0
+    }
+  ]
+}

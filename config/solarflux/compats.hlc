@@ -11,6 +11,9 @@
   # Should Solar Flux Reborn enable compat for 'Draconic Evolution'? (Default: true)
   +B:draconicevolution=true
 
+  # Should Solar Flux Reborn enable compat for 'Thaumcraft'? (Default: true)
+  +B:thaumcraft=true
+
 }
 
 
