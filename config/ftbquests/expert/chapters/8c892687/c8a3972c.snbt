@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "2f21b220",
+		type: "item",
+		items: [{
+			item: "taiga:fractum_ingot"
+		}]
+	}]
+}

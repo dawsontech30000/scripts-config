@@ -1,0 +1,11 @@
+{
+	x: -7.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "91ddbbec",
+		type: "item",
+		items: [{
+			item: "taiga:karmesine_ingot"
+		}]
+	}]
+}

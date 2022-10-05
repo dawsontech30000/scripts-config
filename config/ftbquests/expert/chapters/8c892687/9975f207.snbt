@@ -1,0 +1,11 @@
+{
+	x: -9.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "9d62a132",
+		type: "item",
+		items: [{
+			item: "taiga:astrium_ingot"
+		}]
+	}]
+}

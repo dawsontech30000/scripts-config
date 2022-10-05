@@ -1,0 +1,11 @@
+{
+	x: -7.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "bf517ea7",
+		type: "item",
+		items: [{
+			item: "taiga:yrdeen_ingot"
+		}]
+	}]
+}

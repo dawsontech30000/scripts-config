@@ -1,0 +1,11 @@
+{
+	x: -11.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "f504a7c5",
+		type: "item",
+		items: [{
+			item: "taiga:prometheum_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -13.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "410c38df",
+		type: "item",
+		items: [{
+			item: "taiga:dilithium_ingot"
+		}]
+	}]
+}

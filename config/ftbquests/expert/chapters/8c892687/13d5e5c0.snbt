@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "8c56e595",
+		type: "item",
+		items: [{
+			item: "taiga:niob_ingot"
+		}]
+	}]
+}

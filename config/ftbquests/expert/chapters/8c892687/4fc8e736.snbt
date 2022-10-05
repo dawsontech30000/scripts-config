@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "3fdef1a8",
+		type: "item",
+		items: [{
+			item: "taiga:adamant_ingot"
+		}]
+	}]
+}

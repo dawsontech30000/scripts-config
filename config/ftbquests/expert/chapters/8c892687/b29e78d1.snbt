@@ -1,0 +1,11 @@
+{
+	x: -10.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "e80b705a",
+		type: "item",
+		items: [{
+			item: "taiga:ignitz_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -9.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "85b421a7",
+		type: "item",
+		items: [{
+			item: "taiga:osram_ingot"
+		}]
+	}]
+}

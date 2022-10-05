@@ -1,0 +1,11 @@
+{
+	x: -11.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "9a2e4c88",
+		type: "item",
+		items: [{
+			item: "taiga:palladium_ingot"
+		}]
+	}]
+}

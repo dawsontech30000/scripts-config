@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "302959b1",
+		type: "item",
+		items: [{
+			item: "taiga:abyssum_ingot"
+		}]
+	}]
+}

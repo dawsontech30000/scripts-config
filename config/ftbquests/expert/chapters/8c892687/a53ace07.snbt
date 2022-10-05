@@ -1,0 +1,11 @@
+{
+	x: -13.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "3d2a5b82",
+		type: "item",
+		items: [{
+			item: "taiga:meteorite_ingot"
+		}]
+	}]
+}
