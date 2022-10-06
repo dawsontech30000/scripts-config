@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"d591c184"
+	],
+	tasks: [{
+		uid: "08ed3e28",
+		type: "item",
+		items: [{
+			item: "packagedauto:encoder"
+		}]
+	}]
+}

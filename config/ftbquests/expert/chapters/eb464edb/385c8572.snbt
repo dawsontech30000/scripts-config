@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: -7.0d,
+	dependencies: [
+		"4102c10c"
+	],
+	tasks: [{
+		uid: "c97a126e",
+		type: "item",
+		items: [{
+			item: "ae2stuff:grower"
+		}]
+	}]
+}

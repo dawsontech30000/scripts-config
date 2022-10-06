@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -2.5d,
+	dependencies: [
+		"038b9ba5"
+	],
+	tasks: [{
+		uid: "aa30ba23",
+		type: "item",
+		items: [{
+			item: "packagedauto:unpackager"
+		}]
+	}]
+}

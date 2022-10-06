@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "2a1c2697",
+		type: "item",
+		items: [{
+			item: "packagedauto:recipe_holder"
+		}]
+	}]
+}

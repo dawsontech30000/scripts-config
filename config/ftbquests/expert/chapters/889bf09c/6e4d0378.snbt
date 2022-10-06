@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "8bc2258b",
+		type: "item",
+		items: [{
+			item: "packagedexcrafting:ender_crafter"
+		}]
+	}]
+}

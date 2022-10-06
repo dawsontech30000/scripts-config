@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "231aa5e9",
+		type: "item",
+		items: [{
+			item: "packagedexcrafting:ultimate_crafter"
+		}]
+	}]
+}

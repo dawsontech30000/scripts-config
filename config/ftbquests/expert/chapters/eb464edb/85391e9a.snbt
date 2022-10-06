@@ -1,0 +1,12 @@
+{
+	x: -6.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "e39f7966",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:energy_cell",
+			tag: {}
+		}]
+	}]
+}

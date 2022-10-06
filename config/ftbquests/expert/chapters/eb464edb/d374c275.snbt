@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -1.5d,
+	dependencies: [
+		"fa405164"
+	],
+	tasks: [{
+		uid: "db1bff64",
+		type: "item",
+		items: [{
+			item: "extracpus:crafting_storage_1024k"
+		}]
+	}]
+}

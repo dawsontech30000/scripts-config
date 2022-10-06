@@ -1,0 +1,62 @@
+{
+	x: -12.5d,
+	y: -6.0d,
+	dependencies: [
+		"c5f05799",
+		"a3e8aa8b",
+		"1741e052",
+		"eb0b1c26"
+	],
+	tasks: [{
+		uid: "1199c63e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7861323254270207861L,
+					AS_Amulet_HolderMost: -5242053170944128269L
+				}
+			},
+			id: "ae2wtlib:wut",
+			tag: {
+				StoredTerminals: [{
+					ForgeCaps: {
+						"astralsorcery:cap_item_amulet_holder": {}
+					},
+					id: "wct:wct",
+					Count: 1b,
+					Damage: 0s
+				},
+				{
+					ForgeCaps: {
+						"astralsorcery:cap_item_amulet_holder": {}
+					},
+					id: "wit:wit",
+					Count: 1b,
+					Damage: 0s
+				},
+				{
+					ForgeCaps: {
+						"astralsorcery:cap_item_amulet_holder": {}
+					},
+					id: "wpt:wpt",
+					Count: 1b,
+					Damage: 0s
+				},
+				{
+					ForgeCaps: {
+						"astralsorcery:cap_item_amulet_holder": {}
+					},
+					id: "wft:wft",
+					Count: 1b,
+					Damage: 0s
+				}],
+				InfinityEnergy: 0,
+				SelectedTerminal: 0,
+				internalCurrentPower: 0.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

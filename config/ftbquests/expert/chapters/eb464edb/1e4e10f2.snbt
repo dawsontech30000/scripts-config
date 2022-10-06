@@ -1,0 +1,14 @@
+{
+	x: -14.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "68105144",
+		type: "item",
+		items: [{
+			id: "wct:magnet_card",
+			tag: {
+				MagnetMode: 0
+			}
+		}]
+	}]
+}

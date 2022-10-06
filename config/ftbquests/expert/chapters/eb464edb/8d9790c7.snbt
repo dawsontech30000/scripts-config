@@ -1,0 +1,11 @@
+{
+	x: -13.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "59787c6f",
+		type: "item",
+		items: [{
+			item: "ae2wtlib:infinity_booster_card"
+		}]
+	}]
+}

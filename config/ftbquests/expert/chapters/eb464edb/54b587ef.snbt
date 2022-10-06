@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: -5.5d,
+	dependencies: [
+		"cb29c7f1",
+		"f675c386",
+		"0374ef4a",
+		"3b049a43"
+	],
+	tasks: [{
+		uid: "b395219a",
+		type: "item",
+		items: [{
+			item: "ae2stuff:inscriber"
+		}],
+		count: 5L
+	}]
+}

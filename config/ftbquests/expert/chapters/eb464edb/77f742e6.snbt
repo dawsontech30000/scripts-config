@@ -1,0 +1,15 @@
+{
+	x: -5.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "5df7a1a5",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:energy_cell",
+			tag: {
+				internalMaxPower: 200000.0d,
+				internalCurrentPower: 200000.0d
+			}
+		}]
+	}]
+}

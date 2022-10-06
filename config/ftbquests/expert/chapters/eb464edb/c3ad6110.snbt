@@ -1,0 +1,16 @@
+{
+	x: -7.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "084a644a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ae2stuff:wireless_kit"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
