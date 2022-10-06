@@ -5,7 +5,10 @@
 		uid: "ea8a562b",
 		type: "item",
 		items: [{
-			item: "refinedstorage:wireless_fluid_grid"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "refinedstorage:wireless_fluid_grid"
 		}],
 		ignore_nbt: 1b
 	}]

@@ -1,0 +1,11 @@
+{
+	x: 19.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "6d9257d3",
+		type: "item",
+		items: [{
+			item: "conarm:resist_mat_fire"
+		}]
+	}]
+}

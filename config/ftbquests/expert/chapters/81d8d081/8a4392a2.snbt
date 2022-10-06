@@ -8,6 +8,9 @@
 		uid: "7ad57197",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "notenoughwands:protection_wand",
 			tag: {}
 		}],

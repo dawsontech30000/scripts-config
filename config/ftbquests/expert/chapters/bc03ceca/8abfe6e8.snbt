@@ -18,7 +18,8 @@
 						BurnTime: 0,
 						On: 0b
 					}
-				}
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
 			},
 			id: "inventorygenerators:inv_furnace_gen",
 			tag: {

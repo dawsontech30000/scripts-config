@@ -8,7 +8,10 @@
 		uid: "4d7b4657",
 		type: "item",
 		items: [{
-			item: "notenoughwands:potion_wand"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "notenoughwands:potion_wand"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

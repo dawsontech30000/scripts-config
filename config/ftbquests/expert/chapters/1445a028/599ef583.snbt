@@ -5,7 +5,11 @@
 		uid: "10d22730",
 		type: "item",
 		items: [{
-			item: "rebornstorage:storagepart 1 7"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rebornstorage:storagepart",
+			Damage: 7s
 		}],
 		ignore_nbt: 1b
 	}]

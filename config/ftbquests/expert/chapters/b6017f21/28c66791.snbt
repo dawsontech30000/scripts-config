@@ -12,7 +12,10 @@
 		uid: "b16abfd3",
 		type: "item",
 		items: [{
-			item: "danknull:dank_null_5"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "danknull:dank_null_5"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

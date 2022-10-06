@@ -1,0 +1,11 @@
+{
+	x: -19.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "682d7588",
+		type: "item",
+		items: [{
+			item: "plustic:osgloglasingot"
+		}]
+	}]
+}

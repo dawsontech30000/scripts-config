@@ -8,7 +8,10 @@
 		uid: "12c91d26",
 		type: "item",
 		items: [{
-			item: "notenoughwands:swapping_wand"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "notenoughwands:swapping_wand"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

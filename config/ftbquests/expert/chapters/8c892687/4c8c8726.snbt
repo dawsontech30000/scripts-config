@@ -1,0 +1,11 @@
+{
+	x: 22.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "4415e8a1",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 14"
+		}]
+	}]
+}

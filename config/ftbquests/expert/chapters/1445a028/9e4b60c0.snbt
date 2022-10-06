@@ -5,7 +5,10 @@
 		uid: "75ae6f55",
 		type: "item",
 		items: [{
-			item: "refinedstorage:wireless_grid"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "refinedstorage:wireless_grid"
 		}],
 		ignore_nbt: 1b
 	}]

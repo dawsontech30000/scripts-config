@@ -8,6 +8,9 @@
 		uid: "211936a6",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "notenoughwands:displacement_wand",
 			tag: {}
 		}],

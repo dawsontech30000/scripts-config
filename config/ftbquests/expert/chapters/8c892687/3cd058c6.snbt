@@ -1,0 +1,12 @@
+{
+	x: -12.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "eb921053",
+		type: "item",
+		items: [{
+			item: "tconstruct:edible 1 4"
+		}],
+		count: 64L
+	}]
+}

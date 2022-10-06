@@ -5,6 +5,9 @@
 		uid: "fcf3c393",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "refinedstorage:storage_disk",
 			tag: {
 				IdLeast: -6210243197410796558L,

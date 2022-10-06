@@ -17,7 +17,10 @@
 		uid: "600a76fc",
 		type: "item",
 		items: [{
-			item: "minecraft:wooden_sword"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_sword"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -26,7 +29,10 @@
 		uid: "6ac2acbd",
 		type: "item",
 		items: [{
-			item: "minecraft:wooden_shovel"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_shovel"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -35,7 +41,10 @@
 		uid: "284011cf",
 		type: "item",
 		items: [{
-			item: "minecraft:wooden_pickaxe"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_pickaxe"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -44,7 +53,10 @@
 		uid: "293f23c5",
 		type: "item",
 		items: [{
-			item: "minecraft:wooden_hoe"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_hoe"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -53,7 +65,10 @@
 		uid: "df449eb0",
 		type: "item",
 		items: [{
-			item: "minecraft:stone_axe"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_axe"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

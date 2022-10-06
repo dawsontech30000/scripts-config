@@ -5,7 +5,10 @@
 		uid: "1b4041a3",
 		type: "item",
 		items: [{
-			item: "immersiveengineering:tool"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool"
 		}],
 		ignore_nbt: 1b
 	}]

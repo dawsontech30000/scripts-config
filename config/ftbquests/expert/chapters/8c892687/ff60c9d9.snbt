@@ -1,0 +1,11 @@
+{
+	x: 18.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "e5f54f11",
+		type: "item",
+		items: [{
+			item: "conarm:resist_mat"
+		}]
+	}]
+}

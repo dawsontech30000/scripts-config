@@ -5,6 +5,9 @@
 		uid: "6cbad666",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "appliedenergistics2:creative_storage_cell",
 			tag: {}
 		}],

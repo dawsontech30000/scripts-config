@@ -9,6 +9,9 @@
 		uid: "9393141a",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "woodenshears:wshears",
 			tag: {
 				mType: 5b

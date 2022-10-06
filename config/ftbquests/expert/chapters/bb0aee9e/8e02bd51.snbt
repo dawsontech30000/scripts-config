@@ -5,7 +5,10 @@
 		uid: "68038d17",
 		type: "item",
 		items: [{
-			item: "skyresources:stonegrinder"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "skyresources:stonegrinder"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -14,7 +17,10 @@
 		uid: "2f7fd729",
 		type: "item",
 		items: [{
-			item: "skyresources:irongrinder"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "skyresources:irongrinder"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -23,7 +29,10 @@
 		uid: "8efb7490",
 		type: "item",
 		items: [{
-			item: "skyresources:diamondgrinder"
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "skyresources:diamondgrinder"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

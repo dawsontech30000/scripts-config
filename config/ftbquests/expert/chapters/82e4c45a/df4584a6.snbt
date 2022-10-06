@@ -5,6 +5,9 @@
 		uid: "df60b446",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
 			id: "immersiveengineering:blueprint",
 			tag: {
 				blueprint: "electrode"
