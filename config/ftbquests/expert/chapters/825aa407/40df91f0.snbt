@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "c9d8b8f7",
+		type: "item",
+		items: [{
+			item: "exchangers:eio_endergy_exchanger_core_tier3"
+		}]
+	}]
+}

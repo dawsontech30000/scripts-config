@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "d510a643",
+		type: "item",
+		items: [{
+			item: "exchangers:exchanger_core_tier2"
+		}]
+	}]
+}

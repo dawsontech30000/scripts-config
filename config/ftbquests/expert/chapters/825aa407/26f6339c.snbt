@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "2d629f6c",
+		type: "item",
+		items: [{
+			item: "exchangers:ie_exchanger_core_tier3"
+		}]
+	}]
+}

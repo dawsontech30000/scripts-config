@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "494a30d5",
+		type: "item",
+		items: [{
+			item: "exchangers:mekanism_exchanger_core_tier1"
+		}]
+	}]
+}

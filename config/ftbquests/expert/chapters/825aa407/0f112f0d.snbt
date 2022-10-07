@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "1a970576",
+		type: "item",
+		items: [{
+			item: "exchangers:te_exchanger_core_tier1"
+		}]
+	}]
+}
