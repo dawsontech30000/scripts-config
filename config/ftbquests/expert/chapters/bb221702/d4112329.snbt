@@ -1,0 +1,19 @@
+{
+	x: 6.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "14598596",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "wft:wft_creative",
+			tag: {
+				IsInRange: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

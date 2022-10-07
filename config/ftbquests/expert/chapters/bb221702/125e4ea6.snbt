@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "1e018156",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:quiver",
+			tag: {},
+			Damage: 32000s
+		}],
+		ignore_nbt: 1b
+	}]
+}

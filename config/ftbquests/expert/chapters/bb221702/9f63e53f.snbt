@@ -1,0 +1,23 @@
+{
+	x: 6.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "d1857ccb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7861323254270207861L,
+					AS_Amulet_HolderMost: -5242053170944128269L
+				}
+			},
+			id: "botania:manatablet",
+			tag: {
+				mana: 500000,
+				creative: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

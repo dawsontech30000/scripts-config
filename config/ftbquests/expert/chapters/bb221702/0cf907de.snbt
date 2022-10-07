@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "05b07ecc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 32000
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -7.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "9e52744e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "conarm:book"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

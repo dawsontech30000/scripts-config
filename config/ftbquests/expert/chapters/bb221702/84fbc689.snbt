@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "55feeb3e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7861323254270207861L,
+					AS_Amulet_HolderMost: -5242053170944128269L
+				}
+			},
+			id: "thermalexpansion:reservoir",
+			Damage: 32000s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "60c71a52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:saw",
+			tag: {
+				Energy: 600000,
+				Mode: 4
+			},
+			Damage: 32000s
+		}],
+		ignore_nbt: 1b
+	}]
+}
