@@ -1,0 +1,25 @@
+{
+	x: 5.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "5bf4c991",
+		type: "item",
+		items: [{
+			id: "exchangers:resonant_exchanger",
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				},
+				mode: 0,
+				range: 0,
+				forceDropItems: 0b,
+				directionalPlacement: 0b,
+				fuzzyPlacement: 0b,
+				fuzzyPlacementChance: 100,
+				voidItems: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
