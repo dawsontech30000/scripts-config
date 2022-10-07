@@ -20,17 +20,6 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <woot:upgrade:3>, [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 recipes.remove(<woot:upgrade:3>);
 recipes.remove(<woot:upgrade:4>);
 recipes.remove(<woot:upgrade:5>);

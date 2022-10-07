@@ -7,30 +7,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <tp:cobblegen_block>, [
 	[<ore:compressed2xCobblestone>, <ore:compressed2xCobblestone>, <ore:compressed2xCobblestone>]
 ]);
 
-
-
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <tp:iron_cobblegen_block>, [
 	[<ore:blockIron>, <ore:blockIron>, <ore:blockIron>], 
 	[<minecraft:lava_bucket>, <ore:blockGlassColorless>, <minecraft:water_bucket>], 
 	[<ore:blockIron>, <ore:blockIron>, <ore:blockIron>]
 ]);
-
-
-
-
-
-
-
-
-
 
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <tp:diamond_cobblegen_block>, [
@@ -40,44 +21,17 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <tp:diamond_cobblegen_block>, [
 ]);
 
 
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <tp:blaze_cobblegen_block>, [
 	[<ore:blockBlaze>, <ore:blockBlaze>, <ore:blockBlaze>], 
 	[<minecraft:water_bucket>, <ore:blockGlassColorless>, <minecraft:lava_bucket>], 
 	[<ore:blockBlaze>, <ore:blockBlaze>, <ore:blockBlaze>]
 ]);
 
-
-
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <tp:emerald_cobblegen_block>, [
 	[<botania:storage:3>, <ore:blockDiamond>, <botania:storage:3>], 
 	[<bloodmagic:sigil_water>, <actuallyadditions:block_greenhouse_glass>, <bloodmagic:sigil_lava>], 
 	[<botania:storage:3>, <ore:blockDiamond>, <botania:storage:3>]
 ]);
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // Cobblestone Generator
@@ -89,30 +43,11 @@ recipes.remove(<tp:emerald_cobblegen_block>);
 
 
 
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:cobblegenerator>, [
 	[<excompressum:double_compressed_diamond_hammer>, <excompressum:double_compressed_diamond_hammer>, <excompressum:double_compressed_diamond_hammer>], 
 	[<tp:emerald_cobblegen_block>, null, <tp:emerald_cobblegen_block>], 
 	[<excompressum:double_compressed_diamond_hammer>, <excompressum:double_compressed_diamond_hammer>, <excompressum:double_compressed_diamond_hammer>]
 ]);
-
-
-
-
-
-
-
-
-
-
-
 
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:gravelgenerator>, [
@@ -121,24 +56,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:gravelgenera
 	[<ore:compressed2xGravel>, <ore:compressed2xGravel>, <ore:compressed2xGravel>]
 ]);
 
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:sandgenerator>, [
 	[<ore:compressed2xSand>, <ore:compressed2xSand>, <ore:compressed2xSand>], 
 	[<ore:compressed1xSand>, <excompressum:compressed_hammer_diamond>, <ore:compressed1xSand>], 
 	[<ore:compressed2xSand>, <ore:compressed2xSand>, <ore:compressed2xSand>]
 ]);
-
-
-
-
-
 
 
 
@@ -150,29 +72,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:dirtgenerato
 
 
 
-
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:grassgenerator>, [
 	[<ore:blockSlimeGrass>, <ore:blockSlimeGrass>, <ore:blockSlimeGrass>], 
 	[<ore:blockSlimeGrass>, <minecraft:diamond_shovel>, <ore:blockSlimeGrass>], 
 	[<ore:blockSlimeGrass>, <ore:blockSlimeGrass>, <ore:blockSlimeGrass>]
 ]);
-
-
-
-
-
-
-
-
-
 
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:fungusgenerator>, [
@@ -195,17 +99,6 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:icegenerator
 	[<ultimatebackport:blue_ice>, <ore:blockPackedIce>, <ultimatebackport:blue_ice>]
 ]);
 
-
-
-
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:snowgenerator>, [
 	[<skyresources:heavysnow>, <ore:snowball>, <skyresources:heavysnow>], 
 	[<ultimatebackport:powder_snow_bucket>, <minecraft:snow>, <ultimatebackport:powder_snow_bucket>], 
@@ -214,26 +107,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:snowgenerato
 
 
 
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:endgenerator>, [
 	[<extrautils2:passivegenerator:8>, null, <extrautils2:passivegenerator:8>], 
 	[<ore:dragonEgg>, <minecraft:dragon_breath>, <ore:dragonEgg>], 
 	[<minecraft:dragon_breath>, <ore:dragonEgg>, <minecraft:dragon_breath>]
 ]);
-
-
-
-
-
-
-
-
-
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:soulgenerator>, [
 	[<ore:soulSand>, <ore:compressed1xSoulsand>, <tp:soul_sandstone>], 
@@ -248,22 +126,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:quartzgenera
 ]);
 
 
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:nethergenerator>, [
 	[<ore:compressed2xNetherrack>, <ore:compressed2xNetherrack>, <ore:compressed2xNetherrack>], 
 	[<excompressum:double_compressed_diamond_hammer>, <excompressum:compressed_hammer_diamond>, <excompressum:double_compressed_diamond_hammer>], 
 	[<ore:compressed2xNetherrack>, <ore:compressed3xNetherrack>, <ore:compressed2xNetherrack>]
 ]);
-
-
-
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:claygenerator>, [
 	[<ore:clayPorcelain>, <ore:blockClay>, <deepmoblearning:polymer_clay>], 
@@ -271,34 +138,17 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:claygenerato
 	[<deepmoblearning:polymer_clay>, <ore:blockClay>, <ore:clayPorcelain>]
 ]);
 
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:redstonegenerator>, [
 	[<extrautils2:machine>, <cyclicmagic:clock>, <extrautils2:machine>], 
 	[<cyclicmagic:clock>, <ore:treeSapling>, <cyclicmagic:clock>], 
 	[<extrautils2:machine>, <cyclicmagic:clock>, <extrautils2:machine>]
 ]);
 
-
-
-
-
-
-
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:glowstonegenerator>, [
 	[<ore:glowstone>, <sky_orchards:amber_glowstone>, <ore:glowstone>], 
 	[<sky_orchards:amber_glowstone>, <ore:treeSaplingGlowstone>, <sky_orchards:amber_glowstone>], 
 	[<ore:glowstone>, <sky_orchards:amber_glowstone>, <ore:glowstone>]
 ]);
-
-
-
-
-
-
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <ultimatecobblegen:dustgenerator>, [
 	[<ore:compressed1xDust>, <ore:compressed1xDust>, <ore:compressed1xDust>], 
