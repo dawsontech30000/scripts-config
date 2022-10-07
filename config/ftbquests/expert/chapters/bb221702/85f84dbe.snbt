@@ -5,15 +5,12 @@
 		uid: "60c71a52",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalinnovation:saw",
+			Damage: 32000s,
 			tag: {
 				Energy: 600000,
 				Mode: 4
-			},
-			Damage: 32000s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

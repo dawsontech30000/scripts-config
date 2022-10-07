@@ -5,12 +5,9 @@
 		uid: "1e018156",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalinnovation:quiver",
-			tag: {},
-			Damage: 32000s
+			Damage: 32000s,
+			tag: {}
 		}],
 		ignore_nbt: 1b
 	}]

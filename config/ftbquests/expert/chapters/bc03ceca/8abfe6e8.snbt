@@ -9,24 +9,23 @@
 		uid: "f8c54eea",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					Inv: [],
-					EnergyStorage: {
-						Charging: 0b,
-						Energy: 0,
-						BurnTime: 0,
-						On: 0b
-					}
-				},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "inventorygenerators:inv_furnace_gen",
 			tag: {
 				Charging: 0b,
 				Energy: 0,
 				BurnTime: 0,
 				On: 0b
+			},
+			ForgeCaps: {
+				Parent: {
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					},
+					Inv: []
+				}
 			}
 		}],
 		ignore_damage: true,

@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "bb859a49",
+		type: "item",
+		items: [{
+			item: "solargeneration:solar_panel_signalum"
+		}]
+	}]
+}

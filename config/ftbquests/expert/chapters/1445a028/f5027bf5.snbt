@@ -5,10 +5,7 @@
 		uid: "f8dbc21c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "refinedstorage:wrench"
+			item: "refinedstorage:wrench"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "54d7607e",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_shulker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

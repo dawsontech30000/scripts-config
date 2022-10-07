@@ -9,52 +9,27 @@
 	rewards: [{
 		uid: "2ff86e0d",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_pickaxe"
-		}
+		item: "minecraft:wooden_pickaxe"
 	},
 	{
 		uid: "b9257e59",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_axe"
-		}
+		item: "minecraft:wooden_axe"
 	},
 	{
 		uid: "71ce37a4",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_hoe"
-		}
+		item: "minecraft:wooden_hoe"
 	},
 	{
 		uid: "68fac9ef",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_sword"
-		}
+		item: "minecraft:wooden_sword"
 	},
 	{
 		uid: "7a0ae9de",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_shovel"
-		}
+		item: "minecraft:wooden_shovel"
 	},
 	{
 		uid: "bf27d121",
@@ -64,21 +39,11 @@
 	{
 		uid: "bf8ed8f9",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_axe"
-		}
+		item: "minecraft:stone_axe"
 	},
 	{
 		uid: "00f22971",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_axe"
-		}
+		item: "minecraft:stone_axe"
 	}]
 }

@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "ac692214",
+		type: "item",
+		items: [{
+			item: "thermalsolars:blocksolarpanel6"
+		}]
+	}]
+}

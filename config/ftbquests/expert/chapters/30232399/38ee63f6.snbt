@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "703c1eff",
+		type: "item",
+		items: [{
+			item: "solargeneration:solar_core_advanced"
+		}]
+	}]
+}

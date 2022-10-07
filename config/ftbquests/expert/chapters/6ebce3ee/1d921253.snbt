@@ -1,0 +1,13 @@
+{
+	x: -7.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "852c748f",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:deep_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

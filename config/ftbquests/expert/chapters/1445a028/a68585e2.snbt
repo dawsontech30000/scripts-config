@@ -5,15 +5,12 @@
 		uid: "7317d7f8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "refinedstorage:fluid_storage_disk",
+			Damage: 3s,
 			tag: {
 				IdLeast: -5110930795388242563L,
 				IdMost: 7269091386889421541L
-			},
-			Damage: 3s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

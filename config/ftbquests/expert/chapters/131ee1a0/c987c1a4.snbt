@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "f3a36c8d",
+		type: "item",
+		items: [{
+			item: "solarflux:photovoltaic_cell_1"
+		}]
+	}]
+}

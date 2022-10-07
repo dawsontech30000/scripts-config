@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "bcb2cc0b",
+		type: "item",
+		items: [{
+			item: "solarflux:mirror"
+		}]
+	}]
+}

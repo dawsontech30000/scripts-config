@@ -1,0 +1,19 @@
+{
+	x: 30.0d,
+	y: 19.0d,
+	tasks: [{
+		uid: "a16fc0ba",
+		type: "item",
+		items: [{
+			id: "buildinggadgets:buildingtool",
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				},
+				anchorcoords: []
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

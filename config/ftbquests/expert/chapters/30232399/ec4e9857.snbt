@@ -1,0 +1,16 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "8e99b25b",
+		type: "item",
+		items: [{
+			id: "solargeneration:solar_helmet_resonant",
+			tag: {
+				energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

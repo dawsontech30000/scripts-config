@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "83a43406",
+		type: "item",
+		items: [{
+			item: "solargeneration:solar_core_resonant"
+		}]
+	}]
+}

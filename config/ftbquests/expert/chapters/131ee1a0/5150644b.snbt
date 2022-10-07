@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "796df600",
+		type: "item",
+		items: [{
+			item: "solarflux:photovoltaic_cell_6"
+		}]
+	}]
+}

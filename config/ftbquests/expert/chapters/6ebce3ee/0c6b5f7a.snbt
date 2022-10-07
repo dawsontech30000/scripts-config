@@ -1,0 +1,13 @@
+{
+	x: -3.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "e944b454",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_tinker_slime"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

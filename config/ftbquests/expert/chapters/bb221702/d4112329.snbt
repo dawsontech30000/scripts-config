@@ -5,9 +5,6 @@
 		uid: "14598596",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "wft:wft_creative",
 			tag: {
 				IsInRange: 0b

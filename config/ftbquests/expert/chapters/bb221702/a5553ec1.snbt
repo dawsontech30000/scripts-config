@@ -5,14 +5,11 @@
 		uid: "692a6072",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalexpansion:satchel",
+			Damage: 32000s,
 			tag: {
 				Accessible: 1b
-			},
-			Damage: 32000s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

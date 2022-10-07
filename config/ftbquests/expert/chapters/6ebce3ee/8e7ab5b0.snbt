@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "48f31c4f",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_spider"
+		}]
+	}]
+}

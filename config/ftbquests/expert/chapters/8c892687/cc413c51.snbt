@@ -8,11 +8,7 @@
 		uid: "864034b5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tconstruct:slime_boots",
-			Damage: 3s
+			item: "tconstruct:slime_boots 1 3"
 		}],
 		ignore_nbt: 1b
 	}]

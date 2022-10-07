@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "f20e62ad",
+		type: "item",
+		items: [{
+			id: "solargeneration:solar_helmet_redstone",
+			tag: {
+				energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

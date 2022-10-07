@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "6758519c",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_creeper"
+		}]
+	}]
+}

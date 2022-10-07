@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "c4b87a19",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_shulker"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "2d4ff4b9",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_mo_android"
+		}]
+	}]
+}

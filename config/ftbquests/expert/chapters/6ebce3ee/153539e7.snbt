@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "f13e2b2f",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_twilight_glacier"
+		}]
+	}]
+}

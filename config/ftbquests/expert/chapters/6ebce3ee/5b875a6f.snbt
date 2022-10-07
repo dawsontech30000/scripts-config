@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "aed42d77",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_thermal_elemental"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

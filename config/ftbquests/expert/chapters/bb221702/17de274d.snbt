@@ -5,15 +5,12 @@
 		uid: "972d8b44",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalcultivation:watering_can",
+			Damage: 32000s,
 			tag: {
 				Water: 60000,
 				Mode: 4
-			},
-			Damage: 32000s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

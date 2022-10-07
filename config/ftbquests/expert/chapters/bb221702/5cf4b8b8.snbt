@@ -5,11 +5,7 @@
 		uid: "5e661e52",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "refinedstorageaddons:wireless_crafting_grid",
-			Damage: 1s
+			item: "refinedstorageaddons:wireless_crafting_grid 1 1"
 		}],
 		ignore_nbt: 1b
 	}]

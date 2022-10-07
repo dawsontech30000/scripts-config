@@ -5,11 +5,7 @@
 		uid: "26347fda",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "refinedstorage:wireless_crafting_monitor",
-			Damage: 1s
+			item: "refinedstorage:wireless_crafting_monitor 1 1"
 		}],
 		ignore_nbt: 1b
 	}]

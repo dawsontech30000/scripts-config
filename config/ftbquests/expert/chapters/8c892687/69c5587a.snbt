@@ -5,10 +5,7 @@
 		uid: "9e52744e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "conarm:book"
+			item: "conarm:book"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

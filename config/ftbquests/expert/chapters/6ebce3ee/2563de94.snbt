@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "0658cc59",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_wither"
+		}]
+	}]
+}

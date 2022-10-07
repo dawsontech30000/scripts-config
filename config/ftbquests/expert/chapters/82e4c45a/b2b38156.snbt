@@ -5,9 +5,6 @@
 		uid: "694d3d07",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "immersiveengineering:blueprint",
 			tag: {
 				blueprint: "specialBullet"

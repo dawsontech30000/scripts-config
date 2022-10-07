@@ -5,12 +5,6 @@
 		uid: "56b98277",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -7861323254270207861L,
-					AS_Amulet_HolderMost: -5242053170944128269L
-				}
-			},
 			id: "wct:wct_creative",
 			tag: {
 				IsInRange: 0b

@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "d945a9df",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_wither_skeleton"
+		}]
+	}]
+}

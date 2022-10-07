@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "1d219dda",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_guardian"
+		}]
+	}]
+}

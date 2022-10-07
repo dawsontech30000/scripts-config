@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f4b25a0f",
+		type: "item",
+		items: [{
+			item: "solargeneration:solar_panel_hardened"
+		}]
+	}]
+}

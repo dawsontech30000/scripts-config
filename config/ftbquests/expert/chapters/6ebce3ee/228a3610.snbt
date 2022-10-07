@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f511c7b6",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_blaze"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

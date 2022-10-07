@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "69790f5d",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_dragon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

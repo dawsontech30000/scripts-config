@@ -1,0 +1,11 @@
+{
+	x: -7.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "883b10ea",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:extraction_chamber"
+		}]
+	}]
+}

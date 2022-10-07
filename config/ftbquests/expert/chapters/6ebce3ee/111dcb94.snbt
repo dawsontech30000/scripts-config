@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b05dfd43",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_twilight_forest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

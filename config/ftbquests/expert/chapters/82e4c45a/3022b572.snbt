@@ -5,9 +5,6 @@
 		uid: "ea6e4712",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "immersiveengineering:blueprint",
 			tag: {
 				blueprint: "molds"

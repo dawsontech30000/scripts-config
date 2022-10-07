@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "136bde74",
+		type: "item",
+		items: [{
+			item: "solargeneration:solar_panel_ultimate"
+		}]
+	}]
+}

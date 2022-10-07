@@ -1,0 +1,13 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "80854e62",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_mo_android"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

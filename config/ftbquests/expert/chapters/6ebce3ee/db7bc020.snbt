@@ -1,0 +1,13 @@
+{
+	x: -9.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "832095f2",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:altar_linker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
