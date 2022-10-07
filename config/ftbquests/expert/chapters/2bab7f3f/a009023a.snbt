@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "bf452870",
+		type: "item",
+		items: [{
+			item: "compactmachines3:machine 1 5"
+		}]
+	}]
+}

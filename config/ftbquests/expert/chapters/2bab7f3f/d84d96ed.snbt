@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "85036dfa",
+		type: "item",
+		items: [{
+			item: "compactmachines3:machine 1 1"
+		}]
+	}]
+}

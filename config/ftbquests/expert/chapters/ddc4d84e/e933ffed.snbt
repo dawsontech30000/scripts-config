@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "df309608",
+		type: "item",
+		items: [{
+			item: "yabba:upgrade_blank"
+		}]
+	}]
+}

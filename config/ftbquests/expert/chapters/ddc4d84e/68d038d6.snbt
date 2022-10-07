@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "d8c75bf7",
+		type: "item",
+		items: [{
+			item: "yabba:item_barrel"
+		}]
+	}]
+}

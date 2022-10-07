@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "68a15ea1",
+		type: "item",
+		items: [{
+			id: "yabba:upgrade_obsidian_shell",
+			ForgeCaps: {
+				Parent: {}
+			}
+		}]
+	}]
+}

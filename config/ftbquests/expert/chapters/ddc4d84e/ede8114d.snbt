@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "0e23babd",
+		type: "item",
+		items: [{
+			id: "yabba:upgrade_redstone_out",
+			ForgeCaps: {
+				Parent: {}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "49474d14",
+		type: "item",
+		items: [{
+			id: "yabba:upgrade_iron_tier",
+			ForgeCaps: {
+				Parent: {}
+			}
+		}]
+	}]
+}
