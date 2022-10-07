@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "50bd4122",
+		type: "item",
+		items: [{
+			id: "redstonerepository:armor.helmet_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

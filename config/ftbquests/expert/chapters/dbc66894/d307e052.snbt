@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "6df0cf31",
+		type: "item",
+		items: [{
+			item: "elevatorid:elevator_blue"
+		}]
+	}]
+}

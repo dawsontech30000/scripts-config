@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "c0f69ede",
+		type: "item",
+		items: [{
+			id: "redstonerepository:tool.shovel_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

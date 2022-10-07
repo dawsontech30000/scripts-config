@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "f389f4f7",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:armor.legs_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

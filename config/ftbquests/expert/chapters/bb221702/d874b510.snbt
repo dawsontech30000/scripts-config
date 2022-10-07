@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "59e1b15a",
+		type: "item",
+		items: [{
+			item: "opencomputers:casecreative"
+		}]
+	}]
+}

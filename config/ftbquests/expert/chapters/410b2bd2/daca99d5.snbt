@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "bb6336c5",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:armor.helmet_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

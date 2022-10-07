@@ -1,0 +1,12 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1270987d",
+		type: "item",
+		items: [{
+			item: "redstonerepository:storage 1 1"
+		}],
+		count: 64L
+	}]
+}

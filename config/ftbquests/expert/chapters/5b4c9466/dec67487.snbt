@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "1bed9135",
+		type: "item",
+		items: [{
+			id: "redstonerepository:tool.shield_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

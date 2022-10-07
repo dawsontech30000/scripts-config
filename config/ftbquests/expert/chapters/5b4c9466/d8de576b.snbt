@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "e8738823",
+		type: "item",
+		items: [{
+			id: "redstonerepository:tool.fishing_rod_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

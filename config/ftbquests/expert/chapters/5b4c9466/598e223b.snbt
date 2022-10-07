@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "d5adbfd8",
+		type: "item",
+		items: [{
+			id: "redstonerepository:armor.boots_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

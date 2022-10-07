@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "d83b94a8",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:tool.shield_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

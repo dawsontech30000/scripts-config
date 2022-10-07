@@ -1,0 +1,16 @@
+{
+	x: 0.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "4d13ec0b",
+		type: "item",
+		items: [{
+			id: "redstonerepository:tool.excavator_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

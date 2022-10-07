@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "238b970b",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:tool.shovel_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

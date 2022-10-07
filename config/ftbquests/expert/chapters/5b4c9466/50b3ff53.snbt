@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "ead807f5",
+		type: "item",
+		items: [{
+			id: "redstonerepository:util.capacitor_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

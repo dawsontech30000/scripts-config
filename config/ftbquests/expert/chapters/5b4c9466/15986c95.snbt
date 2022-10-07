@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "3b67c5fa",
+		type: "item",
+		items: [{
+			item: "redstonerepository:util.ring_base"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

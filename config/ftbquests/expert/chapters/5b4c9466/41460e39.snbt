@@ -1,0 +1,16 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "63bc9a06",
+		type: "item",
+		items: [{
+			id: "redstonerepository:tool.sword_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "4fbdfebb",
+		type: "item",
+		items: [{
+			id: "redstonerepository:armor.leggings_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

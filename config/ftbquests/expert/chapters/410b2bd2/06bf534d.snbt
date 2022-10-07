@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "93a3e434",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:armor.boots_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

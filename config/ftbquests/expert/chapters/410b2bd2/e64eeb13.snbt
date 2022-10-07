@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "c151e9ce",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:tool.sickle_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

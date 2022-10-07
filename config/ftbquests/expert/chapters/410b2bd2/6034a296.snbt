@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "b8e853bd",
+		type: "item",
+		items: [{
+			item: "redstonearsenal:material"
+		}],
+		count: 64L
+	}]
+}

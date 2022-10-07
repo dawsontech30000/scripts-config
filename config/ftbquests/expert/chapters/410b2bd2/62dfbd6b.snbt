@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "c309acaa",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:tool.bow_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

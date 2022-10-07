@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "0df79b66",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:tool.pickaxe_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

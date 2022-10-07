@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "a05fa125",
+		type: "item",
+		items: [{
+			id: "redstonerepository:util.ring_effect",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "d8b5d9d4",
+		type: "item",
+		items: [{
+			id: "redstonerepository:tool.hammer_gelid",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

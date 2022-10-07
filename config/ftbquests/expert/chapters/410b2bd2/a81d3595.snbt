@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "88a72a85",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:tool.excavator_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

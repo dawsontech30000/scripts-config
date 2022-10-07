@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "589d5e5b",
+		type: "item",
+		items: [{
+			id: "redstonearsenal:tool.sword_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
