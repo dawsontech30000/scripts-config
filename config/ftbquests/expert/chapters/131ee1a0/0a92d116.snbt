@@ -1,0 +1,12 @@
+{
+	x: 5.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "c04be5bc",
+		type: "item",
+		items: [{
+			item: "solarflux:transfer_rate_upgrade"
+		}],
+		count: 10L
+	}]
+}

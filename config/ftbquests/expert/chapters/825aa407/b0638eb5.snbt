@@ -1,0 +1,25 @@
+{
+	x: 7.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "6e273a0e",
+		type: "item",
+		items: [{
+			id: "exchangers:melodic_exchanger",
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				},
+				mode: 0,
+				range: 0,
+				forceDropItems: 0b,
+				directionalPlacement: 0b,
+				fuzzyPlacement: 0b,
+				fuzzyPlacementChance: 100,
+				voidItems: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

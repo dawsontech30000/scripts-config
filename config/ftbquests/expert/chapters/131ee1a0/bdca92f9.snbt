@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "da9cffeb",
+		type: "item",
+		items: [{
+			item: "solarflux:capacity_upgrade"
+		}],
+		count: 10L
+	}]
+}

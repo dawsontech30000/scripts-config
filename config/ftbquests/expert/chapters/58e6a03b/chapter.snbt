@@ -1,6 +1,6 @@
 {
 	title: "go gadget go",
 	always_invisible: false,
-	group: -2107988985,
+	group: 0,
 	default_quest_shape: ""
 }

@@ -1,0 +1,12 @@
+{
+	x: -1.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "cf8e8177",
+		type: "item",
+		items: [{
+			item: "bhc:wither_bone"
+		}],
+		count: 64L
+	}]
+}

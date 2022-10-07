@@ -1,0 +1,12 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "27b91ca0",
+		type: "item",
+		items: [{
+			item: "bhc:yellow_heart_canister"
+		}],
+		count: 10L
+	}]
+}

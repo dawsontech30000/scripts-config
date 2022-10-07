@@ -1,0 +1,12 @@
+{
+	x: -1.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "fe858ea1",
+		type: "item",
+		items: [{
+			item: "bhc:green_heart"
+		}],
+		count: 64L
+	}]
+}

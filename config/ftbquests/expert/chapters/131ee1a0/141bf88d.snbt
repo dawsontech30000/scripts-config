@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "d8f72827",
+		type: "item",
+		items: [{
+			item: "solarflux:traversal_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

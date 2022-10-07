@@ -1,0 +1,12 @@
+{
+	x: -3.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "df1efe06",
+		type: "item",
+		items: [{
+			item: "bhc:relic_apple"
+		}],
+		count: 64L
+	}]
+}
