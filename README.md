@@ -7,6 +7,8 @@ welcome to nightmare modpack
 
 thank you to following people 
 
+
+testers
 19techguy91#0500
 Edgarthepig303#2863
 Wilhelm Von Hesslebunny#1453
