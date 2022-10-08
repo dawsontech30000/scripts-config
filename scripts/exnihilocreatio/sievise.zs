@@ -362,8 +362,6 @@ Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_osmium>, 0.07)
 
 Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_prosperity>, 0.07);
 
-recipes.addShaped(<mekanism:ingot:1>, [[<skyresources:orealchdust:12>, <skyresources:orealchdust:12>, <skyresources:orealchdust:12>], [<skyresources:orealchdust:12>, <ore:blockObsidian>, <skyresources:orealchdust:12>], [<skyresources:orealchdust:12>, <skyresources:orealchdust:12>, <skyresources:orealchdust:12>]]);
-
 
 
 
