@@ -1,6 +1,6 @@
 {
 	title: "hearts",
 	always_invisible: false,
-	group: 0,
+	group: -1975977213,
 	default_quest_shape: ""
 }

@@ -1,0 +1,11 @@
+{
+	x: -16.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "3e1cd588",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemenderbiotite"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: 8.0d,
+	dependencies: [
+		"8e02bd51"
+	],
+	tasks: [{
+		uid: "acbfac92",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemammolite"
+		}]
+	}]
+}

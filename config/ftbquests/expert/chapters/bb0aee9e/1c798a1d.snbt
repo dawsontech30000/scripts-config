@@ -1,0 +1,11 @@
+{
+	x: -16.5d,
+	y: 10.0d,
+	tasks: [{
+		uid: "ededefb8",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemaquamiddlegem"
+		}]
+	}]
+}

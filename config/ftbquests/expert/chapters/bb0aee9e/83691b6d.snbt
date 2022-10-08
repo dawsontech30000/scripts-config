@@ -1,0 +1,11 @@
+{
+	x: -10.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "5f678796",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygempromethean"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -9.5d,
+	y: -2.0d,
+	dependencies: [
+		"a2cbf22a"
+	],
+	tasks: [{
+		uid: "8385e46e",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron"
+		}]
+	},
+	{
+		uid: "b6986786",
+		type: "fluid",
+		fluid: "water",
+		amount: 100000
+	}]
+}

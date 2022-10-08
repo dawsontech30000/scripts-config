@@ -1,0 +1,11 @@
+{
+	x: -12.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "34299850",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemrosequartz"
+		}]
+	}]
+}

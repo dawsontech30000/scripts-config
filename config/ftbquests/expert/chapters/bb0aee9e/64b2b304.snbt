@@ -1,0 +1,11 @@
+{
+	x: -10.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "6d2a5d25",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygempyrope"
+		}]
+	}]
+}

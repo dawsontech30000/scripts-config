@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "5eceea6e",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_mesh 1 2"
+		}]
+	}]
+}

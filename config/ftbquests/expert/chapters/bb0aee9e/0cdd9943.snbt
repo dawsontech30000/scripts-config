@@ -1,0 +1,11 @@
+{
+	x: -9.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "932d31fa",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemkunzite"
+		}]
+	}]
+}

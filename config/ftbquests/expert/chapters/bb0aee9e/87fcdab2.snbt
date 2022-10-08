@@ -1,0 +1,14 @@
+{
+	x: -6.5d,
+	y: 9.0d,
+	dependencies: [
+		"8e02bd51"
+	],
+	tasks: [{
+		uid: "bd2c97e5",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemdimensionalshard"
+		}]
+	}]
+}

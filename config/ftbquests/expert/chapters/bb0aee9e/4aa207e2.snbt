@@ -1,0 +1,11 @@
+{
+	x: -11.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "4d72d250",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemheartium"
+		}]
+	}]
+}

@@ -1,6 +1,9 @@
 {
-	x: -4.0d,
-	y: 0.0d,
+	x: -11.0d,
+	y: 1.0d,
+	dependencies: [
+		"a0fb210b"
+	],
 	tasks: [{
 		uid: "68038d17",
 		type: "item",
@@ -27,6 +30,14 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "bd70b527",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}],
+		count: 10000L
 	}],
 	rewards: [{
 		uid: "1fb0515a",

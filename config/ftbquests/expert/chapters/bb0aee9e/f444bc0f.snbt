@@ -1,0 +1,14 @@
+{
+	x: -10.5d,
+	y: 6.0d,
+	dependencies: [
+		"8e02bd51"
+	],
+	tasks: [{
+		uid: "1b149735",
+		type: "item",
+		items: [{
+			item: "skyresources:dirtygem 1 2"
+		}]
+	}]
+}

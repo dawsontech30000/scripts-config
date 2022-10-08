@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 11.0d,
+	dependencies: [
+		"8e02bd51"
+	],
+	tasks: [{
+		uid: "de7dac70",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygemcrimsonmiddlegem"
+		}]
+	}]
+}

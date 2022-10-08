@@ -1,9 +1,39 @@
 {
-	x: 10.0d,
-	y: -2.5d,
+	x: 14.5d,
+	y: -4.5d,
+	dependencies: [
+		"a2cbf22a",
+		"9859693d",
+		"9dba5233",
+		"a301754b",
+		"1ce5a208",
+		"3750f57e",
+		"12a3e66d",
+		"75546fe7",
+		"b0776021",
+		"ec4812fe",
+		"e7af8319",
+		"2a688e1f",
+		"82908ce9",
+		"f3943dcf",
+		"dfca5cf7",
+		"4fe82097"
+	],
 	tasks: [{
 		uid: "eb440360",
 		type: "checkmark",
 		title: "move to exnilo"
+	}],
+	rewards: [{
+		uid: "58685a75",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "EX_nihilo"
+	},
+	{
+		uid: "c2a4aba1",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "EX_compressum"
 	}]
 }

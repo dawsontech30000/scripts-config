@@ -1,0 +1,11 @@
+{
+	x: -5.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "db8e40aa",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dirtygempearl"
+		}]
+	}]
+}
