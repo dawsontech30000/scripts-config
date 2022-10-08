@@ -5,3 +5,17 @@ mods.skyresources.combustion.addRecipe(<skyresources:baseitemcomponent:3>, [<min
 
 mods.skyresources.combustion.removeRecipe(<skyresources:baseitemcomponent:3>);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
