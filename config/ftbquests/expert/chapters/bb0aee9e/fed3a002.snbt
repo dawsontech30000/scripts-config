@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "b9b9b51a",
+		type: "item",
+		items: [{
+			item: "skyresources:orealchdust 1 8"
+		}]
+	}]
+}
