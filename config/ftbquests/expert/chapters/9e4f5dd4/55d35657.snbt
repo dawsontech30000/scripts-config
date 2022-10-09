@@ -1,0 +1,14 @@
+{
+	x: -99.0d,
+	y: -52.0d,
+	text: [
+		"Used to gather Chickens resources"
+	],
+	tasks: [{
+		uid: "35ce1b1f",
+		type: "item",
+		items: [{
+			item: "roost:roost"
+		}]
+	}]
+}

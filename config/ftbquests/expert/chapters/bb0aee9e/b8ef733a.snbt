@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -12.5d,
+	tasks: [{
+		uid: "104ba2ea",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchstarwars"
+		}]
+	}]
+}

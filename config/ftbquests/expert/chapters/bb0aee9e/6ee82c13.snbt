@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -14.5d,
+	tasks: [{
+		uid: "c09f5185",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchliquifiedcoralium"
+		}]
+	}]
+}

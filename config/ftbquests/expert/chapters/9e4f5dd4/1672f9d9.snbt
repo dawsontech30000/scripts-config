@@ -1,0 +1,14 @@
+{
+	x: -99.0d,
+	y: -53.0d,
+	text: [
+		"Used to breed Chickens easily without them moving around."
+	],
+	tasks: [{
+		uid: "48487c79",
+		type: "item",
+		items: [{
+			item: "roost:breeder"
+		}]
+	}]
+}

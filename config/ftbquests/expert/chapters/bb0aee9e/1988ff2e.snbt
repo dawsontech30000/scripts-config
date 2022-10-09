@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "759dbd72",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchrainbowtiger"
+		}]
+	}]
+}

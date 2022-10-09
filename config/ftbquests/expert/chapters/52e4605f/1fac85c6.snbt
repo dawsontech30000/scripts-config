@@ -1,0 +1,11 @@
+{
+	x: -12.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "7d1eb924",
+		type: "item",
+		items: [{
+			item: "excompressum:auto_sieve"
+		}]
+	}]
+}

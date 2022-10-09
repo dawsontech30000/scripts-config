@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -16.5d,
+	tasks: [{
+		uid: "92243948",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchdustcrafter"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 15.0d,
+	y: -1.5d,
+	dependencies: [
+		"c6b89b4a",
+		"2e038280"
+	],
+	tasks: [{
+		uid: "31894dd4",
+		type: "item",
+		items: [{
+			item: "morefurnaces:furnaceblock 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: -8.5d,
+	dependencies: [
+		"f2778f10"
+	],
+	tasks: [{
+		uid: "516b4721",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 100L
+	}]
+}

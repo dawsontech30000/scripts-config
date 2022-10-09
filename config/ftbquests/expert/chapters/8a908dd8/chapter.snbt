@@ -1,0 +1,50 @@
+{
+	title: "gp",
+	always_invisible: false,
+	group: -1140601142,
+	default_quest_shape: "",
+	images: [{
+		x: -22.0d,
+		y: -4.5d,
+		width: 10.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "https://i.imgur.com/Lli0rq9.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -13.5d,
+		y: -4.5d,
+		width: 10.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "https://i.imgur.com/zlZgBlF.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -5.0d,
+		y: -4.5d,
+		width: 10.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "https://i.imgur.com/JVfRuE8.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 3.5d,
+		y: -4.5d,
+		width: 10.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "https://i.imgur.com/SNuDqLR.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

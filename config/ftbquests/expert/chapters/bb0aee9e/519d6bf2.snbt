@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: -14.5d,
+	tasks: [{
+		uid: "aa2c02db",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchmercury"
+		}]
+	}]
+}

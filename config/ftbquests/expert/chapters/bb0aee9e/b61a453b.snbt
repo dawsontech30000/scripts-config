@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: -15.5d,
+	tasks: [{
+		uid: "72832ba1",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchevenium"
+		}]
+	}]
+}

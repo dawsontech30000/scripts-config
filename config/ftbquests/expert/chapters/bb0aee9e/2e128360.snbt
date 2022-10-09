@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: -11.5d,
+	tasks: [{
+		uid: "79fcb5b3",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchvirinium"
+		}]
+	}]
+}

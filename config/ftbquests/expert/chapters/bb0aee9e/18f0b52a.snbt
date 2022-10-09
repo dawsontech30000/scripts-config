@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -16.5d,
+	tasks: [{
+		uid: "eae13475",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchdarkiron"
+		}]
+	}]
+}

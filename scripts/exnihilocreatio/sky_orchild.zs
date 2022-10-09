@@ -27,3 +27,17 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <minecraft:string>, [
 	[<ore:treeResin>, null, <ore:treeResin>], 
 	[<sky_orchards:amber_cotton>, <ore:treeResin>, <sky_orchards:amber_cotton>]
 ]);
+
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <minecraft:wool>, [
+	[<ore:treeResin>, <ore:treeResin>, <ore:treeResin>], 
+	[<ore:treeResin>, null, <ore:treeResin>], 
+	[<ore:treeResin>, <ore:treeResin>, <ore:treeResin>]
+]);
+
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <minecraft:stone>, [
+	[<sky_orchards:amber_stone>, <ore:treeResin>, <sky_orchards:amber_stone>], 
+	[<ore:treeResin>, null, <ore:treeResin>], 
+	[<sky_orchards:amber_stone>, <ore:treeResin>, <sky_orchards:amber_stone>]
+]);

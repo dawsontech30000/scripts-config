@@ -1,0 +1,19 @@
+{
+	x: -95.5d,
+	y: -62.0d,
+	tasks: [{
+		uid: "f1a8106c",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Gain: 1,
+				Growth: 1,
+				Strength: 1,
+				Chicken: "chickens:blackchicken"
+			}
+		}],
+		count: 16L,
+		only_from_crafting: true
+	}]
+}

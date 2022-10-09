@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -15.5d,
+	tasks: [{
+		uid: "555b1997",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchfirsttimegaming"
+		}]
+	}]
+}

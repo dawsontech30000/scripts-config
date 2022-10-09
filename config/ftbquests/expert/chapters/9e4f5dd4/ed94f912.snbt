@@ -1,0 +1,15 @@
+{
+	x: -97.5d,
+	y: -52.5d,
+	shape: "pentagon",
+	tasks: [{
+		uid: "a69348ca",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Chicken: "minecraft:chicken"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "c2280980",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchradium"
+		}]
+	}]
+}

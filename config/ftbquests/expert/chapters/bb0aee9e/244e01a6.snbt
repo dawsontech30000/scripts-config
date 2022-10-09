@@ -1,0 +1,11 @@
+{
+	x: -5.5d,
+	y: -16.5d,
+	tasks: [{
+		uid: "fa348633",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchcrystal"
+		}]
+	}]
+}

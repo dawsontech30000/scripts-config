@@ -1,6 +1,7 @@
 {
 	x: -1.0d,
 	y: -5.5d,
+	description: "since dawson broke mining wood need use axe to get wood good luck make sure make axes  wont last long",
 	tasks: [{
 		uid: "8daf2326",
 		type: "item",

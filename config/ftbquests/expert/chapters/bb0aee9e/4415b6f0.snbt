@@ -1,0 +1,11 @@
+{
+	x: -6.5d,
+	y: -15.5d,
+	tasks: [{
+		uid: "1b40a5ab",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchinvar"
+		}]
+	}]
+}

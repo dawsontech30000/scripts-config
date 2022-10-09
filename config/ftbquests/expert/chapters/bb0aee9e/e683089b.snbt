@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -17.5d,
+	tasks: [{
+		uid: "e594599f",
+		type: "item",
+		items: [{
+			item: "jaopca:item_dustalchastralstarmetal"
+		}]
+	}]
+}

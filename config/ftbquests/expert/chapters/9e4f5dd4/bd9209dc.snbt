@@ -1,0 +1,11 @@
+{
+	x: -99.0d,
+	y: -54.0d,
+	tasks: [{
+		uid: "4bb5e471",
+		type: "item",
+		items: [{
+			item: "roost:collector"
+		}]
+	}]
+}

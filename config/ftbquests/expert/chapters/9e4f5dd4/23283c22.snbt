@@ -1,0 +1,14 @@
+{
+	x: -97.5d,
+	y: -54.0d,
+	shape: "circle",
+	tasks: [{
+		uid: "dbbe7f29",
+		type: "item",
+		items: [{
+			item: "roost:catcher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
