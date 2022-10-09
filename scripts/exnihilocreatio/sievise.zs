@@ -7,6 +7,7 @@ Sieve.removeAll();
 mods.exnihilocreatio.Crook.removeAll();
 
 mods.exnihilocreatio.Hammer.removeAll();
+furnace.removeAll();
 
 
 // Sieve
