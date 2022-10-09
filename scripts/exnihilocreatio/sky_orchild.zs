@@ -58,32 +58,32 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <minecraft:gravel>, [
 
 
 
-furnace.addRecipe(<sky_orchards:amber_stone>, <minecraft:stone>);
-furnace.addRecipe(<sky_orchards:amber_cotton>, <minecraft:string>);
-furnace.addRecipe(<sky_orchards:amber_dirt>, <minecraft:dirt>);
-furnace.addRecipe(<sky_orchards:amber_clay>, <minecraft:clay>);
-furnace.addRecipe(<sky_orchards:amber_coal>, <minecraft:coal>);
-furnace.addRecipe(<sky_orchards:amber_redstone>, <minecraft:redstone>);
-furnace.addRecipe(<sky_orchards:amber_lead>, <thermalfoundation:material:131>);
-furnace.addRecipe(<sky_orchards:amber_emerald>, <minecraft:emerald>);
-furnace.addRecipe(<sky_orchards:amber_cobalt>, <tconstruct:ingots>);
-furnace.addRecipe(<sky_orchards:amber_iron>, <minecraft:iron_ingot>);
-furnace.addRecipe(<sky_orchards:amber_diamond>, <minecraft:diamond>);
-furnace.addRecipe(<sky_orchards:amber_tin>, <thermalfoundation:material:129>);
-furnace.addRecipe(<sky_orchards:amber_quartz>, <minecraft:quartz_block>);
-furnace.addRecipe(<sky_orchards:amber_ardite>, <tconstruct:ingots:1>);
-furnace.addRecipe(<sky_orchards:amber_sand>, <minecraft:sand>);
-furnace.addRecipe(<sky_orchards:amber_gold>, <minecraft:gold_ingot>);
-furnace.addRecipe(<sky_orchards:amber_bone>, <minecraft:bone_block>);
-furnace.addRecipe(<sky_orchards:amber_silver>, <thermalfoundation:material:130>);
-furnace.addRecipe(<sky_orchards:amber_netherrack>, <minecraft:netherrack>);
-furnace.addRecipe(<sky_orchards:amber_osmium>, <mekanism:ingot:1>);
-furnace.addRecipe(<sky_orchards:amber_prosperity>, <mysticalagriculture:crafting:5>);
-furnace.addRecipe(<sky_orchards:amber_gravel>, <minecraft:gravel>);
-furnace.addRecipe(<sky_orchards:amber_lapis>, <minecraft:dye:4>);
-furnace.addRecipe(<sky_orchards:amber_copper>, <thermalfoundation:material:128>);
-furnace.addRecipe(<sky_orchards:amber_nickel>, <thermalfoundation:material:133>);
-furnace.addRecipe(<sky_orchards:amber_glowstone>, <minecraft:glowstone>);   
+furnace.addRecipe(<minecraft:stone>, <sky_orchards:amber_stone>);
+furnace.addRecipe(<minecraft:string>, <sky_orchards:amber_cotton>);
+furnace.addRecipe(<minecraft:dirt>, <sky_orchards:amber_dirt>);
+furnace.addRecipe(<minecraft:clay>, <sky_orchards:amber_clay>);
+furnace.addRecipe(<minecraft:coal>, <sky_orchards:amber_coal>);
+furnace.addRecipe(<minecraft:redstone>, <sky_orchards:amber_redstone>);
+furnace.addRecipe( <thermalfoundation:material:131>,  <sky_orchards:amber_lead>);
+furnace.addRecipe(<minecraft:emerald>, <sky_orchards:amber_emerald>);
+furnace.addRecipe(<tconstruct:ingots>, <sky_orchards:amber_cobalt>);
+furnace.addRecipe(<minecraft:iron_ingot>, <sky_orchards:amber_iron>);
+furnace.addRecipe(<minecraft:diamond>, <sky_orchards:amber_diamond>);
+furnace.addRecipe(<thermalfoundation:material:129>, <sky_orchards:amber_tin>);
+furnace.addRecipe(<minecraft:quartz_block>, <sky_orchards:amber_quartz>);
+furnace.addRecipe(<tconstruct:ingots:1>, <sky_orchards:amber_ardite>);
+furnace.addRecipe(<minecraft:sand>,    <sky_orchards:amber_sand>);
+furnace.addRecipe(<minecraft:gold_ingot>, <sky_orchards:amber_gold>);
+furnace.addRecipe(<minecraft:bone_block>, <sky_orchards:amber_bone>);
+furnace.addRecipe(<thermalfoundation:material:130>, <sky_orchards:amber_silver>);
+furnace.addRecipe(<minecraft:netherrack>, <sky_orchards:amber_netherrack>);
+furnace.addRecipe(<mekanism:ingot:1>, <sky_orchards:amber_osmium>);
+furnace.addRecipe(<mysticalagriculture:crafting:5>, <sky_orchards:amber_prosperity>);
+furnace.addRecipe(<minecraft:gravel>, <sky_orchards:amber_gravel>);
+furnace.addRecipe(<minecraft:dye:4>, <sky_orchards:amber_lapis>);
+furnace.addRecipe(<thermalfoundation:material:128>, <sky_orchards:amber_copper>);
+furnace.addRecipe(<thermalfoundation:material:133>, <sky_orchards:amber_nickel>);
+furnace.addRecipe(<minecraft:glowstone>, <sky_orchards:amber_glowstone>);                                                             
 
 
 
@@ -93,4 +93,50 @@ furnace.addRecipe(<sky_orchards:amber_glowstone>, <minecraft:glowstone>);
 
 
 
-furnace.addRecipe(<minecraft:golden_apple>, <minecraft:apple>);
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
