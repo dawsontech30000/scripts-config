@@ -7,8 +7,6 @@ Sieve.removeAll();
 mods.exnihilocreatio.Crook.removeAll();
 
 mods.exnihilocreatio.Hammer.removeAll();
-furnace.removeAll();
-
 
 // Sieve
 recipes.remove(<exnihilocreatio:block_sieve>);
