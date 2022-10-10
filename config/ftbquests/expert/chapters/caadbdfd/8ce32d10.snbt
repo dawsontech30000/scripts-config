@@ -1,14 +1,14 @@
 {
-	x: -12.5d,
+	x: -15.5d,
 	y: -3.5d,
 	dependencies: [
-		"6f69bfa0"
+		"5ef1e2ca"
 	],
 	tasks: [{
-		uid: "81408e2e",
+		uid: "0bdbb230",
 		type: "item",
 		items: [{
-			item: "exnihilocreatio:block_sieve"
+			item: "tp:emerald_cobblegen_block"
 		}]
 	}]
 }

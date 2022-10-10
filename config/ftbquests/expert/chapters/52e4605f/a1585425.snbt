@@ -1,0 +1,28 @@
+{
+	x: 0.5d,
+	y: -2.0d,
+	dependencies: [
+		"f6196d50",
+		"fe175a96",
+		"add23251",
+		"92179609"
+	],
+	tasks: [{
+		uid: "90e5d65c",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "9ee6ba53",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "immersiveeengineering"
+	},
+	{
+		uid: "46a4a5a1",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "tinkers"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "welcome to sieving",
+	x: -7.5d,
+	y: -4.5d,
+	text: [
+		"welcome sieving as change alot  instead of getting chunks piececs will get already chunks save you time compress them however congraz to getting to this stage good luck will need it"
+	],
+	tasks: [{
+		uid: "a97b365f",
+		type: "checkmark",
+		title: "welcome"
+	}]
+}
