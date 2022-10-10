@@ -1,6 +1,15 @@
 {
+	title: "oby clay cobble dirt",
 	x: -21.0d,
 	y: -15.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"6f69bfa0",
+		"a2cbf22a",
+		"2a1076bf"
+	],
 	tasks: [{
 		uid: "836d599a",
 		type: "checkmark"
