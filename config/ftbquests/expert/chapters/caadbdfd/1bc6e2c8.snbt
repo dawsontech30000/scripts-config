@@ -1,0 +1,18 @@
+{
+	title: "dirt maker",
+	x: -14.0d,
+	y: -10.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"0220f0a1"
+	],
+	tasks: [{
+		uid: "b745f9f7",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_barrel0"
+		}]
+	}]
+}

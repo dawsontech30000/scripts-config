@@ -1,0 +1,18 @@
+{
+	title: "cobble via stone barrel",
+	x: -14.0d,
+	y: -11.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"c51ef97d"
+	],
+	tasks: [{
+		uid: "db5acc4c",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_barrel1"
+		}]
+	}]
+}

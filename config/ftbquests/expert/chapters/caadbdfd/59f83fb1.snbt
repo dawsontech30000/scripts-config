@@ -1,0 +1,18 @@
+{
+	title: "clay maker",
+	x: -14.0d,
+	y: -12.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"c1660008"
+	],
+	tasks: [{
+		uid: "7e2335b5",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_barrel1"
+		}]
+	}]
+}

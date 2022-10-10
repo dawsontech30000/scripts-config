@@ -1,0 +1,12 @@
+{
+	x: -16.5d,
+	y: -11.5d,
+	tasks: [{
+		uid: "d6cc65b1",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 64L
+	}]
+}

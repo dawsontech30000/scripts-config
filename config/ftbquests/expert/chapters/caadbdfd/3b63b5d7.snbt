@@ -1,0 +1,12 @@
+{
+	x: -16.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "c177619c",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 64L
+	}]
+}
