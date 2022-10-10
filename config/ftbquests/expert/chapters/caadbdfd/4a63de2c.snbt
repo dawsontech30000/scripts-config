@@ -1,0 +1,12 @@
+{
+	x: -32.5d,
+	y: -11.0d,
+	dependencies: [
+		"d7fea82e"
+	],
+	tasks: [{
+		uid: "81e9fa8e",
+		type: "checkmark",
+		title: "welcome to mineing world"
+	}]
+}

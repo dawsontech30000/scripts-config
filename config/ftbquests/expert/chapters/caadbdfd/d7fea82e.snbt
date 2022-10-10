@@ -1,0 +1,13 @@
+{
+	x: -27.5d,
+	y: -15.0d,
+	dependencies: [
+		"09b34806",
+		"5a1bbcb2"
+	],
+	tasks: [{
+		uid: "ec12ccba",
+		type: "checkmark",
+		title: "welcome to nether"
+	}]
+}
