@@ -14,8 +14,3 @@ mods.skyresources.combustion.removeRecipe(<skyresources:baseitemcomponent:3>);
 
 
 
-
-
-
-
-
