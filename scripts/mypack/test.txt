@@ -1,0 +1,64 @@
+
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_cotton>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_dirt>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_clay>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_stone>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_sand>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_gravel>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_coal>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_iron>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_gold>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_lapis>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_redstone>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_diamond>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_bone>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_copper>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_lead>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_tin>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_silver>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_nickel>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_emerald>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_quartz>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_netherrack>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_glowstone>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_cobalt>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_ardite>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_osmium>, 0.07);
+
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <sky_orchards:sapling_prosperity>, 0.07);
+
+
+// Sword of the Cosmos
+recipes.remove(<avaritia:infinity_sword>);
+mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <avaritia:infinity_sword> * 1, [[<minecraft:iron_sword>, <minecraft:diamond_sword>, <minecraft:wooden_sword>, <minecraft:stone_sword>, <projecte:dm_pedestal>, <projecte:dm_pedestal>, <projecte:dm_pedestal>, <projecte:dm_pedestal>, <projecte:dm_pedestal>], [<appliedenergistics2:certus_quartz_sword>, <extendedcrafting:singularity_ultimate>, <extendedcrafting:singularity_ultimate>, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, <projecte:dm_pedestal>],[<projecte:relay_mk3>, <extendedcrafting:singularity_ultimate>, <extendedcrafting:singularity_ultimate>, <avaritia:resource:6>, <projecte:item.pe_dm_sword>, <projecte:transmutation_table>, <projecte:item.pe_rm_sword>, <projecte:item.pe_rm_hoe>, <projecte:dm_pedestal>],[<projecte:relay_mk3>, <extendedcrafting:singularity_ultimate>, <extendedcrafting:singularity_ultimate>, <draconicevolution:wyvern_sword>, <avaritia:skullfire_sword>, <draconicevolution:wyvern_sword>, <projecte:item.pe_rm_shovel>, <projecte:item.pe_klein_star:5>, <projecte:dm_pedestal>],[<projecte:relay_mk3>, <projecte:item.pe_destruction_catalyst>, <projectex:energy_link>, <projecte:item.pe_philosophers_stone>, <projecte:item.pe_rm_sword>, <projecte:item.pe_rm_pick>, <projecte:item.pe_klein_star:5>, <projecte:item.pe_klein_star:5>, <projecte:dm_pedestal>],[<projecte:relay_mk3>, <projecte:item.pe_rm_armor_0>, <projecte:item.pe_rm_armor_1>, <projecte:item.pe_klein_star:5>, <projecte:item.pe_klein_star:5>, <projecte:item.pe_klein_star:5>, <projecte:item.pe_klein_star:5>, <projecte:item.pe_klein_star:5>, <projectex:power_flower:15>],[<silentgems:sword>, <projecte:item.pe_rm_armor_2>, <projecte:item.pe_rm_armor_3>, <projecte:item.pe_rm_shears>, <draconicevolution:draconic_sword>, <silentgems:sword>, <silentgems:sword>, <silentgems:sword>, <silentgems:sword>],[<silentgems:sword>, <silentgems:sword>, <silentgems:sword>, <silentgems:sword>, <mysticaladaptations:insanium_sword>, <mysticalagriculture:prudentium_sword>, <mysticalagriculture:intermedium_sword>, <mysticalagriculture:superium_sword>, <mysticalagriculture:supremium_sword>],[<divinerpg:storm_sword>, <projecte:item.pe_lens_explosive>, <cyclicmagic:crystal_sword>, <deepmoblearning:glitch_infused_sword>, <projecte:item.pe_klein_star:5>, <divinerpg:karos_backsword>, <extraplanets:purple_diamond_sword>, <extraplanets:red_diamond_sword>, <ultimatebackport:netherite_sword>]]);
+
+// Philosopher's Stone
+recipes.remove(<projecte:item.pe_philosophers_stone>);
+mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <projecte:item.pe_philosophers_stone> * 1, [[<projecte:condenser_mk1>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projecte:condenser_mk1>], [<projectex:power_flower:12>, <avaritiaio:infinitecapacitor>, <avaritia:resource:6>, <botania:manatablet>, <pneumaticcraft:amadron_tablet>, <botania:manatablet>, <avaritia:resource:6>, <avaritiaio:infinitecapacitor>, <projectex:power_flower:12>],[<projectex:power_flower:12>, <avaritiaio:infinitecapacitor>, <projecte:item.pe_rm_hammer>, <avaritia:resource:4>, <projectex:arcane_tablet>, <avaritia:resource:4>, <projecte:item.pe_rm_hammer>, <avaritiaio:infinitecapacitor>, <projectex:power_flower:12>],[<projectex:power_flower:12>, <avaritiaio:infinitecapacitor>, <opencomputers:material:19>, <projecte:condenser_mk2>, <projecte:item.pe_transmutation_tablet>, <projecte:condenser_mk2>, <opencomputers:material:19>, <avaritiaio:infinitecapacitor>, <projectex:power_flower:12>],[<projectex:power_flower:12>, <avaritiaio:infinitecapacitor>, <pneumaticcraft:amadron_tablet>, <projecte:item.pe_transmutation_tablet>, <randomthings:timeinabottle>, <projecte:item.pe_transmutation_tablet>, <pneumaticcraft:amadron_tablet>, <avaritiaio:infinitecapacitor>, <projectex:power_flower:12>],[<projectex:power_flower:12>, <avaritiaio:infinitecapacitor>, <opencomputers:material:19>, <projecte:condenser_mk2>, <projecte:item.pe_transmutation_tablet>, <projecte:condenser_mk2>, <opencomputers:material:19>, <avaritiaio:infinitecapacitor>, <projectex:power_flower:12>],[<projectex:power_flower:12>, <avaritiaio:infinitecapacitor>, <projecte:item.pe_dm_hammer>, <avaritia:resource:4>, <projectex:arcane_tablet>, <avaritia:resource:4>, <projecte:item.pe_dm_hammer>, <avaritiaio:infinitecapacitor>, <projectex:power_flower:12>],[<projectex:power_flower:12>, <avaritiaio:infinitecapacitor>, <avaritia:resource:6>, <botania:manatablet>, <pneumaticcraft:amadron_tablet>, <botania:manatablet>, <avaritia:resource:6>, <avaritiaio:infinitecapacitor>, <projectex:power_flower:12>],[<projecte:condenser_mk1>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projectex:power_flower:12>, <projecte:condenser_mk1>]]);
+
+
